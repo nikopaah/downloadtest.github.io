@@ -1,0 +1,40 @@
+{
+    "AnimationLibrary": [
+        {
+            "SkeletonID": 0,
+            "AnimationID": 0,
+            "Url": "https://www.google.com",
+            "LastModified": "0001-01-01T00:00:00"
+        },
+        {
+            "SkeletonID": 1,
+            "AnimationID": 1,
+            "Url": "https://www.google.com",
+            "LastModified": "0001-01-01T00:00:00"
+        },
+        {
+            "SkeletonID": 2,
+            "AnimationID": 2,
+            "Url": "https://www.google.com",
+            "LastModified": "0001-01-01T00:00:00"
+        },
+        {
+            "SkeletonID": 3,
+            "AnimationID": 3,
+            "Url": "https://www.google.com",
+            "LastModified": "0001-01-01T00:00:00"
+        },
+        {
+            "SkeletonID": 4,
+            "AnimationID": 4,
+            "Url": "https://www.google.com",
+            "LastModified": "0001-01-01T00:00:00"
+        },
+        {
+            "SkeletonID": 5,
+            "AnimationID": 5,
+            "Url": "https://www.google.com",
+            "LastModified": "0001-01-01T00:00:00"
+        }
+    ]
+}

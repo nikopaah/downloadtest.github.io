@@ -1,0 +1,14 @@
+{
+    "WorldMapMetaData" : {
+        "WorldWidth": 628,
+        "WorldHeight": 242,
+        "CameraStartPosX": 0,
+        "CameraStartPosY": 0,
+        "CameraStartZoom": 0,
+        "GridCellWidth" : 0,
+        "GridCellHeight": 0,
+        "StartQuadrant" : "01_02", 
+        "ModifiedDate": "2023-12-01",
+        "WorldMapVersion": 0
+    }
+}

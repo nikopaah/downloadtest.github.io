@@ -1,0 +1,34 @@
+{
+    "BundleLibrary": [
+        {
+            "BundleID": 0,
+            "Url": "https://www.google.com",
+            "Crc": 0,
+            "Version": 0
+        },
+        {
+            "BundleID": 1,
+            "Url": "https://www.google.com",
+            "Crc": 1,
+            "Version": 1
+        },
+        {
+            "BundleID": 2,
+            "Url": "https://www.google.com",
+            "Crc": 2,
+            "Version": 2
+        },
+        {
+            "BundleID": 3,
+            "Url": "https://www.google.com",
+            "Crc": 3,
+            "Version": 3
+        },
+        {
+            "BundleID": 4,
+            "Url": "https://www.google.com",
+            "Crc": 4,
+            "Version": 4
+        }
+    ]
+}
