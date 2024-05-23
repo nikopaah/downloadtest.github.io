@@ -3,35 +3,35 @@
         {
             "BundleID": 0,
             "FileName": "terrain.bndl",
-            "Url": "https://nikopaah.github.io/downloadtest.github.io/terrain.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/terrain.bndl",
             "Crc": 0,
             "Version": 0
         },
         {
             "BundleID": 1,
             "FileName": "stones.bndl",
-            "Url": "https://nikopaah.github.io/downloadtest.github.io/stones.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/stones.bndl",
             "Crc": 1,
             "Version": 1
         },
         {
             "BundleID": 2,
             "FileName": "plants.bndl",
-            "Url": "https://nikopaah.github.io/downloadtest.github.io/plants.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/plants.bndl",
             "Crc": 2,
             "Version": 2
         },
         {
             "BundleID": 3,
             "FileName": "items.bndl",
-            "Url": "https://nikopaah.github.io/downloadtest.github.io/items.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/items.bndl",
             "Crc": 3,
             "Version": 3
         },
         {
             "BundleID": 4,
             "FileName": "furniture.bndl",
-            "Url": "https://nikopaah.github.io/downloadtest.github.io/furniture.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/furniture.bndl",
             "Crc": 4,
             "Version": 4
         }
@@ -39,7 +39,7 @@
         {
             "BundleID": 5,
             "FileName": "buildings.bndl",
-            "Url": "https://nikopaah.github.io/downloadtest.github.io/buildings.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/buildings.bndl",
             "Crc": 5,
             "Version": 5
         }
