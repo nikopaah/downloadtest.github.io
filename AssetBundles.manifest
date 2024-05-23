@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1279413880
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: buildings.bndl
+      Dependencies: {}
+    Info_1:
+      Name: furniture.bndl
+      Dependencies: {}
+    Info_2:
+      Name: items.bndl
+      Dependencies: {}
+    Info_3:
+      Name: plants.bndl
+      Dependencies: {}
+    Info_4:
+      Name: stones.bndl
+      Dependencies: {}
+    Info_5:
+      Name: terrain.bndl
+      Dependencies: {}

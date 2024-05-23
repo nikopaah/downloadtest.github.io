@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 1441788929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81ec6326e85a3f61cf33b4bdb5d610b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/images/Buildings/BeehiveKiln_v003.png
+- Assets/images/Buildings/RoundGate_A_v002.png
+- Assets/images/Buildings/Building_1_v006.png
+- Assets/images/Buildings/HeartStoneFountain_2_v001.png
+- Assets/images/Buildings/Bridge_Small_TL_v002.png
+- Assets/images/Buildings/Growth_FrontWall_v000.png
+- Assets/images/Buildings/WaterFountain_1_v001.png
+- Assets/images/Buildings/LoveAC_FrontWall_v000.png
+- Assets/images/Buildings/WoodPile_v001.png
+- Assets/images/Buildings/Significance_Instruments_v000.png
+- Assets/images/Buildings/WaterDam_Stones_v001.png
+- Assets/images/Buildings/LoveAC_Arches_v000.png
+- Assets/images/Buildings/Significance_FrontWall_v000.png
+- Assets/images/Buildings/WoodRamp_1_v003.png
+- Assets/images/Buildings/BigHut_3_v001.png
+- Assets/images/Buildings/Growth_BackWall_v000.png
+- Assets/images/Buildings/HornStairs_v002.png
+- Assets/images/Buildings/OnariSymbol_v000.png
+- Assets/images/Buildings/Jetty_v000.png
+- Assets/images/Buildings/Variety_BackWall_v000.png
+- Assets/images/Buildings/Significance_BackWall_v000.png
+- Assets/images/Buildings/HeartStoneFountain_Circle_v001.png
+- Assets/images/Buildings/Building_2_v006.png
+- Assets/images/Buildings/Growth_Activity_v000.png
+- Assets/images/Buildings/LoveAC_BackWall_v000.png
+- Assets/images/Buildings/JuiceStation_1_v000.png
+- Assets/images/Buildings/HeartStoneFountain_2_Rocks_v001.png
+- Assets/images/Buildings/FlowerStation_v000.png
+- Assets/images/Buildings/WaterFall_Stones_v001.png
+- Assets/images/Buildings/Obelisk_1_v003.png
+- Assets/images/Buildings/Circle_v003.png
+- Assets/images/Buildings/Bridge_Big_TL_v002.png
+- Assets/images/Buildings/OnuMountain_v000.png
+- Assets/images/Buildings/Certainty_FWalls_v000.png
+- Assets/images/Buildings/HeartStoneFountain_1_v001.png
+- Assets/images/Buildings/Windmill_v002.png
+- Assets/images/Buildings/Contribuition_FWalls_v000.png
+- Assets/images/Buildings/Certainty_BWalls_v000.png
+- Assets/images/Buildings/Variety_FrontWall_v000.png
+- Assets/images/Buildings/BigHut_1_v001.png
+- Assets/images/Buildings/HeartStoneFountain_Rocks_1_v001.png
+- Assets/images/Buildings/Arc_6Symbols_v000.png
+- Assets/images/Buildings/Contribuition_BonfireWall_v000.png
+- Assets/images/Buildings/Pyramid_v000.png
+- Assets/images/Buildings/RoundGate_B_v002.png
+- Assets/images/Buildings/BigHut_2_v001.png
+- Assets/images/Buildings/Contribuition_BWalls_v000.png
+- Assets/images/Buildings/Bridge_Big_TR_v002.png
+- Assets/images/Buildings/Bridge_Small_TR_v002.png
+Dependencies: []

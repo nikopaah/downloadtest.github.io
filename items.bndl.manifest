@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 3922008662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54ce438f3611a1438436079a1bd316bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/images/Items/Gem_Small_12_v000.png
+- Assets/images/Items/BambooCup_1_v000.png
+- Assets/images/Items/Gem_Small_15_v000.png
+- Assets/images/Items/SpoonPlate_3_v000.png
+- Assets/images/Items/Gem_Big_1_v000.png
+- Assets/images/Items/Crystal_Purple_3_v000.png
+- Assets/images/Items/Crystal_Red_3_v000.png
+- Assets/images/Items/Gem_Small_4_v000.png
+- Assets/images/Items/Crystal_Orange_2_v000.png
+- Assets/images/Items/BambooCup_3_v000.png
+- Assets/images/Items/Crystal_Cyan_2_v000.png
+- Assets/images/Items/Crystal_Red_1_v000.png
+- Assets/images/Items/Shell_4_v000.png
+- Assets/images/Items/PlateAsset_1_v000.png
+- Assets/images/Items/Crystal_Cyan_1_v000.png
+- Assets/images/Items/Axe_1_v001.png
+- Assets/images/Items/Variety_Anchors_1_v000.png
+- Assets/images/Items/OrangeBowl_v000.png
+- Assets/images/Items/Gem_Small_2_v000.png
+- Assets/images/Items/Gem_Big_3_v000.png
+- Assets/images/Items/Crystal_Green_1_v000.png
+- Assets/images/Items/Shell_1_v000.png
+- Assets/images/Items/Gem_Small_10_v000.png
+- Assets/images/Items/Gem_Small_14_v000.png
+- Assets/images/Items/SpoonPlate_2_v000.png
+- Assets/images/Items/Plate_Burried_1_v000.png
+- Assets/images/Items/Variety_Anchors_2_v000.png
+- Assets/images/Items/GreenRope_1_v002.png
+- Assets/images/Items/Gem_Big_4_v000.png
+- Assets/images/Items/Gem_Small_6_v000.png
+- Assets/images/Items/PlateAsset_2_v000.png
+- Assets/images/Items/BambooCup_4_v000.png
+- Assets/images/Items/Crystal_Pink_3_v000.png
+- Assets/images/Items/Gem_Small_8_v000.png
+- Assets/images/Items/Crystal_Red_2_v000.png
+- Assets/images/Items/Crystal_Pink_2_v000.png
+- Assets/images/Items/Crystal_Blue_2_v000.png
+- Assets/images/Items/Crystal_Green_3_v000.png
+- Assets/images/Items/Spoon_2_v000.png
+- Assets/images/Items/Plate_Burried_3_v000.png
+- Assets/images/Items/CampAxe_1_v000.png
+- Assets/images/Items/Crystal_Orange_1_v000.png
+- Assets/images/Items/Crystal_Purple_2_v000.png
+- Assets/images/Items/Gem_Small_5_v000.png
+- Assets/images/Items/Crystal_Cyan_3_v000.png
+- Assets/images/Items/Crystal_Green_2_v000.png
+- Assets/images/Items/Shell_3_v000.png
+- Assets/images/Items/Crystal_Purple_1_v000.png
+- Assets/images/Items/PlateAsset_3_v000.png
+- Assets/images/Items/GreenBowl_000.png
+- Assets/images/Items/Gem_Big_5_v000.png
+- Assets/images/Items/Shell_5_v000.png
+- Assets/images/Items/BambooCup_2_v000.png
+- Assets/images/Items/Plate_Burried_4_v000.png
+- Assets/images/Items/Crystal_Blue_3_v000.png
+- Assets/images/Items/000.png
+- Assets/images/Items/BambooCup_6_v000.png
+- Assets/images/Items/SpoonPlate_1_v000.png
+- Assets/images/Items/Axe_3_v001.png
+- Assets/images/Items/Crystal_pink_1_v000.png
+- Assets/images/Items/Gem_Small_1_v000.png
+- Assets/images/Items/Gem_Small_11_v000.png
+- Assets/images/Items/Plate_Burried_2_v000.png
+- Assets/images/Items/Gem_Small_7_v000.png
+- Assets/images/Items/BambooBottle_v000.png
+- Assets/images/Items/Spoon_1_v000.png
+- Assets/images/Items/BambooCup_5_v000.png
+- Assets/images/Items/BlueRope_1_v002.png
+- Assets/images/Items/Shell_2_v000.png
+- Assets/images/Items/Axe_2_v001.png
+- Assets/images/Items/Gem_Big_6_v000.png
+- Assets/images/Items/Gem_Small_3_v000.png
+- Assets/images/Items/Gem_Small_13_v000.png
+- Assets/images/Items/CampAxe_2_v000.png
+- Assets/images/Items/Crystal_Orange_3_v000.png
+- Assets/images/Items/Gem_Big_2_v000.png
+- Assets/images/Items/Saw_v000.png
+- Assets/images/Items/Crystal_Blue_1_v000.png
+- Assets/images/Items/Gem_Small_9_v000.png
+Dependencies: []
