@@ -3,6 +3,7 @@
         {
             "ImageID": 14846,
             "FileName": "Sand_Decoration_Small_L_v000.png",
+            "BundleId": 0,
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -16,6 +17,7 @@
         {
             "ImageID": 14842,
             "FileName": "Sand_Top_Cover_L_v000.png",
+            "BundleId": 0,
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -29,6 +31,7 @@
         {
             "ImageID": 14843,
             "FileName": "Sand_Top_Cover_R_v000.png",
+            "BundleId": 0,
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -42,6 +45,7 @@
         {
             "ImageID": 14845,
             "FileName": "Sand_Side_1_L_v000.png",
+            "BundleId": 0,
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -55,6 +59,7 @@
         {
             "ImageID": 14847,
             "FileName": "Sand_Decoration_Small_R_v000.png",
+            "BundleId": 0,
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -68,6 +73,7 @@
         {
             "ImageID": 14972,
             "FileName": "SeaSand_v000.png",
+            "BundleId": 0,
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -81,6 +87,7 @@
         {
             "ImageID": 15168,
             "FileName": "Tile_Sand_02_v002.png",
+            "BundleId": 0,
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -94,6 +101,7 @@
         {
             "ImageID": 15153,
             "FileName": "Sand_Path_2_v000.png",
+            "BundleId": 0,
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
