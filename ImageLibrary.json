@@ -2,7 +2,7 @@
     "ImageLibrary": [
         {
             "ImageID": 14846,
-            "PngName": "Sand_Decoration_Small_L_v000.png",
+            "FileName": "Sand_Decoration_Small_L_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -15,7 +15,7 @@
         },
         {
             "ImageID": 14842,
-            "PngName": "Sand_Top_Cover_L_v000.png",
+            "FileName": "Sand_Top_Cover_L_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -28,7 +28,7 @@
         },
         {
             "ImageID": 14843,
-            "PngName": "Sand_Top_Cover_R_v000.png",
+            "FileName": "Sand_Top_Cover_R_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -41,7 +41,7 @@
         },
         {
             "ImageID": 14845,
-            "PngName": "Sand_Side_1_L_v000.png",
+            "FileName": "Sand_Side_1_L_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -54,7 +54,7 @@
         },
         {
             "ImageID": 14847,
-            "PngName": "Sand_Decoration_Small_R_v000.png",
+            "FileName": "Sand_Decoration_Small_R_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -67,7 +67,7 @@
         },
         {
             "ImageID": 14972,
-            "PngName": "SeaSand_v000.png",
+            "FileName": "SeaSand_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -80,7 +80,7 @@
         },
         {
             "ImageID": 15168,
-            "PngName": "Tile_Sand_02_v002.png",
+            "FileName": "Tile_Sand_02_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -93,7 +93,7 @@
         },
         {
             "ImageID": 15153,
-            "PngName": "Sand_Path_2_v000.png",
+            "FileName": "Sand_Path_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -106,7 +106,7 @@
         },
         {
             "ImageID": 15154,
-            "PngName": "Sand_Path_v000.png",
+            "FileName": "Sand_Path_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -119,7 +119,7 @@
         },
         {
             "ImageID": 14626,
-            "PngName": "Grass_Asset_3_TR_v000.png",
+            "FileName": "Grass_Asset_3_TR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -132,7 +132,7 @@
         },
         {
             "ImageID": 14625,
-            "PngName": "Grass_Asset_3_BR_v000.png",
+            "FileName": "Grass_Asset_3_BR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -145,7 +145,7 @@
         },
         {
             "ImageID": 14623,
-            "PngName": "Grass_Asset_3_BL_v000.png",
+            "FileName": "Grass_Asset_3_BL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -158,7 +158,7 @@
         },
         {
             "ImageID": 14624,
-            "PngName": "Grass_Asset_3_TL_v000.png",
+            "FileName": "Grass_Asset_3_TL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -171,7 +171,7 @@
         },
         {
             "ImageID": 14618,
-            "PngName": "Grass_Asset_2_TR_v000.png",
+            "FileName": "Grass_Asset_2_TR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -184,7 +184,7 @@
         },
         {
             "ImageID": 14622,
-            "PngName": "Grass_Asset_2_TL_v000.png",
+            "FileName": "Grass_Asset_2_TL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -197,7 +197,7 @@
         },
         {
             "ImageID": 14620,
-            "PngName": "Grass_Asset_1_BL_v000.png",
+            "FileName": "Grass_Asset_1_BL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -210,7 +210,7 @@
         },
         {
             "ImageID": 14621,
-            "PngName": "Grass_Asset_1_BR_v000.png",
+            "FileName": "Grass_Asset_1_BR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -223,7 +223,7 @@
         },
         {
             "ImageID": 14617,
-            "PngName": "Grass_Asset_2_BL_v000.png",
+            "FileName": "Grass_Asset_2_BL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -236,7 +236,7 @@
         },
         {
             "ImageID": 14616,
-            "PngName": "Grass_Asset_2_BR_v000.png",
+            "FileName": "Grass_Asset_2_BR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -249,7 +249,7 @@
         },
         {
             "ImageID": 14615,
-            "PngName": "Grass_Asset_1_TL_v000.png",
+            "FileName": "Grass_Asset_1_TL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -262,7 +262,7 @@
         },
         {
             "ImageID": 14619,
-            "PngName": "Grass_Asset_1_TR_v000.png",
+            "FileName": "Grass_Asset_1_TR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -275,7 +275,7 @@
         },
         {
             "ImageID": 14879,
-            "PngName": "Grass_Bank_2_v000.png",
+            "FileName": "Grass_Bank_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -288,7 +288,7 @@
         },
         {
             "ImageID": 14883,
-            "PngName": "Grass_Bank_3_v000.png",
+            "FileName": "Grass_Bank_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -301,7 +301,7 @@
         },
         {
             "ImageID": 14881,
-            "PngName": "Grass_Bank_4_v000.png",
+            "FileName": "Grass_Bank_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -314,7 +314,7 @@
         },
         {
             "ImageID": 14880,
-            "PngName": "Grass_Bank_5_v000.png",
+            "FileName": "Grass_Bank_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -327,7 +327,7 @@
         },
         {
             "ImageID": 14878,
-            "PngName": "Grass_Bank_1_v000.png",
+            "FileName": "Grass_Bank_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -340,7 +340,7 @@
         },
         {
             "ImageID": 15150,
-            "PngName": "TinyGrass_v000.png",
+            "FileName": "TinyGrass_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -353,7 +353,7 @@
         },
         {
             "ImageID": 14852,
-            "PngName": "GrassAsset_1_v000.png",
+            "FileName": "GrassAsset_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -366,7 +366,7 @@
         },
         {
             "ImageID": 14850,
-            "PngName": "GrassAsset_2_v000.png",
+            "FileName": "GrassAsset_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -379,7 +379,7 @@
         },
         {
             "ImageID": 14851,
-            "PngName": "GrassAsset_3_v000.png",
+            "FileName": "GrassAsset_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -392,7 +392,7 @@
         },
         {
             "ImageID": 14849,
-            "PngName": "GrassAsset_4_v000.png",
+            "FileName": "GrassAsset_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -405,7 +405,7 @@
         },
         {
             "ImageID": 14629,
-            "PngName": "Bush_LongLeaves_1_v001.png",
+            "FileName": "Bush_LongLeaves_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -418,7 +418,7 @@
         },
         {
             "ImageID": 14631,
-            "PngName": "Bush_Round_Green_01_v003.png",
+            "FileName": "Bush_Round_Green_01_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -431,7 +431,7 @@
         },
         {
             "ImageID": 14632,
-            "PngName": "Bush_Round_Lime_01_v003.png",
+            "FileName": "Bush_Round_Lime_01_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -444,7 +444,7 @@
         },
         {
             "ImageID": 14644,
-            "PngName": "Fruit_Coconut_3.1_v000.png",
+            "FileName": "Fruit_Coconut_3.1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -457,7 +457,7 @@
         },
         {
             "ImageID": 14634,
-            "PngName": "Bush_Round_Green_02_v003.png",
+            "FileName": "Bush_Round_Green_02_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -470,7 +470,7 @@
         },
         {
             "ImageID": 14732,
-            "PngName": "Contribuition_SoupTable_v000.png",
+            "FileName": "Contribuition_SoupTable_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -483,7 +483,7 @@
         },
         {
             "ImageID": 14734,
-            "PngName": "Contribuition_SoupJug_v000.png",
+            "FileName": "Contribuition_SoupJug_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -496,7 +496,7 @@
         },
         {
             "ImageID": 14737,
-            "PngName": "Bamboo_Chair_1_v000.png",
+            "FileName": "Bamboo_Chair_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -509,7 +509,7 @@
         },
         {
             "ImageID": 14740,
-            "PngName": "Bamboo_Chair_4_v000.png",
+            "FileName": "Bamboo_Chair_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -522,7 +522,7 @@
         },
         {
             "ImageID": 14657,
-            "PngName": "Bush_Round_Lime_02_v003.png",
+            "FileName": "Bush_Round_Lime_02_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -535,7 +535,7 @@
         },
         {
             "ImageID": 14633,
-            "PngName": "Bush_Small_Lime_v000.png",
+            "FileName": "Bush_Small_Lime_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -548,7 +548,7 @@
         },
         {
             "ImageID": 14665,
-            "PngName": "Flowers_bushes_4_v000.png",
+            "FileName": "Flowers_bushes_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -561,7 +561,7 @@
         },
         {
             "ImageID": 14742,
-            "PngName": "Flower_Purple_2_v000.png",
+            "FileName": "Flower_Purple_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -574,7 +574,7 @@
         },
         {
             "ImageID": 14744,
-            "PngName": "StoneWall_A_4_v001.png",
+            "FileName": "StoneWall_A_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -587,7 +587,7 @@
         },
         {
             "ImageID": 14710,
-            "PngName": "StoneWall_B_2_v000.png",
+            "FileName": "StoneWall_B_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -600,7 +600,7 @@
         },
         {
             "ImageID": 14749,
-            "PngName": "Significance_Benches_M_v000.png",
+            "FileName": "Significance_Benches_M_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -613,7 +613,7 @@
         },
         {
             "ImageID": 14714,
-            "PngName": "BrokenStoneStair_R_v001.png",
+            "FileName": "BrokenStoneStair_R_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -626,7 +626,7 @@
         },
         {
             "ImageID": 14762,
-            "PngName": "SeaAsset_2_v1.png",
+            "FileName": "SeaAsset_2_v1.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -639,7 +639,7 @@
         },
         {
             "ImageID": 14658,
-            "PngName": "Bush_ThinLeaves_v002.png",
+            "FileName": "Bush_ThinLeaves_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -652,7 +652,7 @@
         },
         {
             "ImageID": 14763,
-            "PngName": "Plant_Red_v000.png",
+            "FileName": "Plant_Red_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -665,7 +665,7 @@
         },
         {
             "ImageID": 14766,
-            "PngName": "Fruit_Coconut_1.2_v000.png",
+            "FileName": "Fruit_Coconut_1.2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -678,7 +678,7 @@
         },
         {
             "ImageID": 14767,
-            "PngName": "Fruit_Coconut_1.1_v000.png",
+            "FileName": "Fruit_Coconut_1.1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -691,7 +691,7 @@
         },
         {
             "ImageID": 14655,
-            "PngName": "Fruit_Coconut_Leaves_2_v000.png",
+            "FileName": "Fruit_Coconut_Leaves_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -704,7 +704,7 @@
         },
         {
             "ImageID": 14675,
-            "PngName": "WhiteRock_14_v001.png",
+            "FileName": "WhiteRock_14_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -717,7 +717,7 @@
         },
         {
             "ImageID": 14769,
-            "PngName": "WhiteRock_8_v001.png",
+            "FileName": "WhiteRock_8_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -730,7 +730,7 @@
         },
         {
             "ImageID": 14678,
-            "PngName": "Stone_little_6_v000.png",
+            "FileName": "Stone_little_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -743,7 +743,7 @@
         },
         {
             "ImageID": 14673,
-            "PngName": "Stone_little_14_v000.png",
+            "FileName": "Stone_little_14_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -756,7 +756,7 @@
         },
         {
             "ImageID": 14681,
-            "PngName": "Stone_little_10_v000.png",
+            "FileName": "Stone_little_10_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -769,7 +769,7 @@
         },
         {
             "ImageID": 14667,
-            "PngName": "Stone_little_11_v000.png",
+            "FileName": "Stone_little_11_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -782,7 +782,7 @@
         },
         {
             "ImageID": 14677,
-            "PngName": "Stone_little_8_v000.png",
+            "FileName": "Stone_little_8_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -795,7 +795,7 @@
         },
         {
             "ImageID": 14668,
-            "PngName": "Stone_little_12_v000.png",
+            "FileName": "Stone_little_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -808,7 +808,7 @@
         },
         {
             "ImageID": 14680,
-            "PngName": "Stone_little_4_v000.png",
+            "FileName": "Stone_little_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -821,7 +821,7 @@
         },
         {
             "ImageID": 14771,
-            "PngName": "Shell_2_v000.png",
+            "FileName": "Shell_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -834,7 +834,7 @@
         },
         {
             "ImageID": 14772,
-            "PngName": "Shell_2_v000.png",
+            "FileName": "Shell_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -847,7 +847,7 @@
         },
         {
             "ImageID": 14773,
-            "PngName": "Shell_3_v000.png",
+            "FileName": "Shell_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -860,7 +860,7 @@
         },
         {
             "ImageID": 14774,
-            "PngName": "Shell_1_v000.png",
+            "FileName": "Shell_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -873,7 +873,7 @@
         },
         {
             "ImageID": 14777,
-            "PngName": "Shell_4_v000.png",
+            "FileName": "Shell_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -886,7 +886,7 @@
         },
         {
             "ImageID": 14776,
-            "PngName": "Shell_5_v000.png",
+            "FileName": "Shell_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -899,7 +899,7 @@
         },
         {
             "ImageID": 14760,
-            "PngName": "WhiteRock_5_v001.png",
+            "FileName": "WhiteRock_5_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -912,7 +912,7 @@
         },
         {
             "ImageID": 14670,
-            "PngName": "Stone_little_13_v000.png",
+            "FileName": "Stone_little_13_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -925,7 +925,7 @@
         },
         {
             "ImageID": 14707,
-            "PngName": "Stone_little_7_v000.png",
+            "FileName": "Stone_little_7_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -938,7 +938,7 @@
         },
         {
             "ImageID": 14630,
-            "PngName": "Bush_LongLeaves_2_v001.png",
+            "FileName": "Bush_LongLeaves_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -951,7 +951,7 @@
         },
         {
             "ImageID": 14761,
-            "PngName": "WhiteRock_7_v001.png",
+            "FileName": "WhiteRock_7_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -964,7 +964,7 @@
         },
         {
             "ImageID": 14645,
-            "PngName": "Fruit_Coconut_3.2_v000.png",
+            "FileName": "Fruit_Coconut_3.2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -977,7 +977,7 @@
         },
         {
             "ImageID": 14784,
-            "PngName": "Fruit_Coconut_2.2_v000.png",
+            "FileName": "Fruit_Coconut_2.2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -990,7 +990,7 @@
         },
         {
             "ImageID": 14683,
-            "PngName": "Stone_little_1_v000.png",
+            "FileName": "Stone_little_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1003,7 +1003,7 @@
         },
         {
             "ImageID": 14693,
-            "PngName": "Flower_Nymphaeas_1_v000.png",
+            "FileName": "Flower_Nymphaeas_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1016,7 +1016,7 @@
         },
         {
             "ImageID": 14639,
-            "PngName": "Bamboo_Fence_1_v000.png",
+            "FileName": "Bamboo_Fence_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1029,7 +1029,7 @@
         },
         {
             "ImageID": 14669,
-            "PngName": "Stone_little_2_v000.png",
+            "FileName": "Stone_little_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1042,7 +1042,7 @@
         },
         {
             "ImageID": 14682,
-            "PngName": "Stone_little_9_v000.png",
+            "FileName": "Stone_little_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1055,7 +1055,7 @@
         },
         {
             "ImageID": 14810,
-            "PngName": "Bank_Curved180_2_TR_v000.png",
+            "FileName": "Bank_Curved180_2_TR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1068,7 +1068,7 @@
         },
         {
             "ImageID": 14848,
-            "PngName": "Flower_Purple_v000.png",
+            "FileName": "Flower_Purple_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1081,7 +1081,7 @@
         },
         {
             "ImageID": 14705,
-            "PngName": "Plant_Pink_v001.png",
+            "FileName": "Plant_Pink_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1094,7 +1094,7 @@
         },
         {
             "ImageID": 14781,
-            "PngName": "WhiteRock_3_v001.png",
+            "FileName": "WhiteRock_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1107,7 +1107,7 @@
         },
         {
             "ImageID": 14770,
-            "PngName": "WhiteRock_4_v001.png",
+            "FileName": "WhiteRock_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1120,7 +1120,7 @@
         },
         {
             "ImageID": 14768,
-            "PngName": "WhiteRock_6_v001.png",
+            "FileName": "WhiteRock_6_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1133,7 +1133,7 @@
         },
         {
             "ImageID": 14635,
-            "PngName": "WhiteRock_13_v001.png",
+            "FileName": "WhiteRock_13_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1146,7 +1146,7 @@
         },
         {
             "ImageID": 14684,
-            "PngName": "Stone_little_3_v000.png",
+            "FileName": "Stone_little_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1159,7 +1159,7 @@
         },
         {
             "ImageID": 14676,
-            "PngName": "WhiteRock_1_v001.png",
+            "FileName": "WhiteRock_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1172,7 +1172,7 @@
         },
         {
             "ImageID": 14627,
-            "PngName": "WhiteRock_10_v001.png",
+            "FileName": "WhiteRock_10_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1185,7 +1185,7 @@
         },
         {
             "ImageID": 14679,
-            "PngName": "Stone_little_5_v000.png",
+            "FileName": "Stone_little_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1198,7 +1198,7 @@
         },
         {
             "ImageID": 14660,
-            "PngName": "WhiteRock_2_v001.png",
+            "FileName": "WhiteRock_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1211,7 +1211,7 @@
         },
         {
             "ImageID": 14646,
-            "PngName": "PalmTree_1_v005.png",
+            "FileName": "PalmTree_1_v005.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1224,7 +1224,7 @@
         },
         {
             "ImageID": 14659,
-            "PngName": "Plant_Tiger_v000.png",
+            "FileName": "Plant_Tiger_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1237,7 +1237,7 @@
         },
         {
             "ImageID": 14654,
-            "PngName": "PlantTree_Leaves_B_2_v001.png",
+            "FileName": "PlantTree_Leaves_B_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1250,7 +1250,7 @@
         },
         {
             "ImageID": 14689,
-            "PngName": "Flowers_bushes_5_v000.png",
+            "FileName": "Flowers_bushes_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1263,7 +1263,7 @@
         },
         {
             "ImageID": 14785,
-            "PngName": "Flower_Lily_2_v000.png",
+            "FileName": "Flower_Lily_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1276,7 +1276,7 @@
         },
         {
             "ImageID": 14743,
-            "PngName": "Flower_Purple_1_v000.png",
+            "FileName": "Flower_Purple_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1289,7 +1289,7 @@
         },
         {
             "ImageID": 14706,
-            "PngName": "Flowers_bushes_6_v000.png",
+            "FileName": "Flowers_bushes_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1302,7 +1302,7 @@
         },
         {
             "ImageID": 14690,
-            "PngName": "Flowers_bushes_3_v000.png",
+            "FileName": "Flowers_bushes_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1315,7 +1315,7 @@
         },
         {
             "ImageID": 14647,
-            "PngName": "PalmTree_2_v005.png",
+            "FileName": "PalmTree_2_v005.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1328,7 +1328,7 @@
         },
         {
             "ImageID": 14796,
-            "PngName": "Flowers_bushes_2_v000.png",
+            "FileName": "Flowers_bushes_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1341,7 +1341,7 @@
         },
         {
             "ImageID": 14908,
-            "PngName": "HeartStoneFountain_Circle_v001.png",
+            "FileName": "HeartStoneFountain_Circle_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1354,7 +1354,7 @@
         },
         {
             "ImageID": 14853,
-            "PngName": "Plant_water_1_v000.png",
+            "FileName": "Plant_water_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1367,7 +1367,7 @@
         },
         {
             "ImageID": 14854,
-            "PngName": "Plant_water_2_v000.png",
+            "FileName": "Plant_water_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1380,7 +1380,7 @@
         },
         {
             "ImageID": 14855,
-            "PngName": "Plant_water_4_v000.png",
+            "FileName": "Plant_water_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1393,7 +1393,7 @@
         },
         {
             "ImageID": 14788,
-            "PngName": "Flower_Nymphaeas_2_v000.png",
+            "FileName": "Flower_Nymphaeas_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1406,7 +1406,7 @@
         },
         {
             "ImageID": 14797,
-            "PngName": "Jar_Burried_4_v000.png",
+            "FileName": "Jar_Burried_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1419,7 +1419,7 @@
         },
         {
             "ImageID": 14864,
-            "PngName": "Jar_Burried_5_v000.png",
+            "FileName": "Jar_Burried_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1432,7 +1432,7 @@
         },
         {
             "ImageID": 14726,
-            "PngName": "Jar_Burried_9_v000.png",
+            "FileName": "Jar_Burried_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1445,7 +1445,7 @@
         },
         {
             "ImageID": 14859,
-            "PngName": "Bamboo_Bench_4_v000.png",
+            "FileName": "Bamboo_Bench_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1458,7 +1458,7 @@
         },
         {
             "ImageID": 14640,
-            "PngName": "Fruit_MangoTree_Trunk_1_v001.png",
+            "FileName": "Fruit_MangoTree_Trunk_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1471,7 +1471,7 @@
         },
         {
             "ImageID": 14672,
-            "PngName": "Flower_Pink_1_v000.png",
+            "FileName": "Flower_Pink_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1484,7 +1484,7 @@
         },
         {
             "ImageID": 14666,
-            "PngName": "Bush_LongLeaves_3_v001.png",
+            "FileName": "Bush_LongLeaves_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1497,7 +1497,7 @@
         },
         {
             "ImageID": 14663,
-            "PngName": "PlantTree_Leaves_A_2_v001.png",
+            "FileName": "PlantTree_Leaves_A_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1510,7 +1510,7 @@
         },
         {
             "ImageID": 14651,
-            "PngName": "PlantTree_Leaves_D_1_v001.png",
+            "FileName": "PlantTree_Leaves_D_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1523,7 +1523,7 @@
         },
         {
             "ImageID": 14652,
-            "PngName": "PlantTree_Leaves_E_1_v001.png",
+            "FileName": "PlantTree_Leaves_E_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1536,7 +1536,7 @@
         },
         {
             "ImageID": 14637,
-            "PngName": "Bamboo_Fence_2_v000.png",
+            "FileName": "Bamboo_Fence_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1549,7 +1549,7 @@
         },
         {
             "ImageID": 14628,
-            "PngName": "WhiteRock_12_v001.png",
+            "FileName": "WhiteRock_12_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1562,7 +1562,7 @@
         },
         {
             "ImageID": 14783,
-            "PngName": "Fruit_Coconut_2.1_v000.png",
+            "FileName": "Fruit_Coconut_2.1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1575,7 +1575,7 @@
         },
         {
             "ImageID": 14661,
-            "PngName": "BananaPalm_1_v002.png",
+            "FileName": "BananaPalm_1_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1588,7 +1588,7 @@
         },
         {
             "ImageID": 14636,
-            "PngName": "WhiteRock_11_v001.png",
+            "FileName": "WhiteRock_11_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1601,7 +1601,7 @@
         },
         {
             "ImageID": 14739,
-            "PngName": "Bamboo_Table_v000.png",
+            "FileName": "Bamboo_Table_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1614,7 +1614,7 @@
         },
         {
             "ImageID": 14892,
-            "PngName": "BambooCup_3_v000.png",
+            "FileName": "BambooCup_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1627,7 +1627,7 @@
         },
         {
             "ImageID": 14638,
-            "PngName": "Bamboo_Fence_3_v000.png",
+            "FileName": "Bamboo_Fence_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1640,7 +1640,7 @@
         },
         {
             "ImageID": 14721,
-            "PngName": "Bamboo_Bench_2_v000.png",
+            "FileName": "Bamboo_Bench_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1653,7 +1653,7 @@
         },
         {
             "ImageID": 14723,
-            "PngName": "Torch_1_v000.png",
+            "FileName": "Torch_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1666,7 +1666,7 @@
         },
         {
             "ImageID": 14725,
-            "PngName": "Torch_3_v000.png",
+            "FileName": "Torch_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1679,7 +1679,7 @@
         },
         {
             "ImageID": 14722,
-            "PngName": "Bamboo_Bench_3_v000.png",
+            "FileName": "Bamboo_Bench_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1692,7 +1692,7 @@
         },
         {
             "ImageID": 14650,
-            "PngName": "PlantTree_Leaves_B_1_v001.png",
+            "FileName": "PlantTree_Leaves_B_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1705,7 +1705,7 @@
         },
         {
             "ImageID": 14716,
-            "PngName": "PlantTree_Leaves_C_2_v001.png",
+            "FileName": "PlantTree_Leaves_C_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1718,7 +1718,7 @@
         },
         {
             "ImageID": 14896,
-            "PngName": "Gem_Small_10_v000.png",
+            "FileName": "Gem_Small_10_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1731,7 +1731,7 @@
         },
         {
             "ImageID": 14900,
-            "PngName": "Gem_Small_4_v000.png",
+            "FileName": "Gem_Small_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1744,7 +1744,7 @@
         },
         {
             "ImageID": 14901,
-            "PngName": "Gem_Small_7_v000.png",
+            "FileName": "Gem_Small_7_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1757,7 +1757,7 @@
         },
         {
             "ImageID": 14902,
-            "PngName": "Gem_Small_8_v000.png",
+            "FileName": "Gem_Small_8_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1770,7 +1770,7 @@
         },
         {
             "ImageID": 14898,
-            "PngName": "Gem_Small_12_v000.png",
+            "FileName": "Gem_Small_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1783,7 +1783,7 @@
         },
         {
             "ImageID": 14786,
-            "PngName": "Flower_Lily_1_v000.png",
+            "FileName": "Flower_Lily_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1796,7 +1796,7 @@
         },
         {
             "ImageID": 14844,
-            "PngName": "StoneWall_C_3_v001.png",
+            "FileName": "StoneWall_C_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1809,7 +1809,7 @@
         },
         {
             "ImageID": 14759,
-            "PngName": "BrokenStoneStair_L_v001.png",
+            "FileName": "BrokenStoneStair_L_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1822,7 +1822,7 @@
         },
         {
             "ImageID": 14782,
-            "PngName": "WhiteRock_9_v001.png",
+            "FileName": "WhiteRock_9_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1835,7 +1835,7 @@
         },
         {
             "ImageID": 14708,
-            "PngName": "StoneWall_A_2_v000.png",
+            "FileName": "StoneWall_A_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1848,7 +1848,7 @@
         },
         {
             "ImageID": 14827,
-            "PngName": "Stone_little_3_v000.png",
+            "FileName": "Stone_little_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1861,7 +1861,7 @@
         },
         {
             "ImageID": 14826,
-            "PngName": "Stone_little_13_v000.png",
+            "FileName": "Stone_little_13_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1874,7 +1874,7 @@
         },
         {
             "ImageID": 14837,
-            "PngName": "Bank_Straight_TR _v000.png",
+            "FileName": "Bank_Straight_TR _v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1887,7 +1887,7 @@
         },
         {
             "ImageID": 14839,
-            "PngName": "Bank_Curved90_2_T_v000.png",
+            "FileName": "Bank_Curved90_2_T_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1900,7 +1900,7 @@
         },
         {
             "ImageID": 14756,
-            "PngName": "StoneWall_A_3_v001.png",
+            "FileName": "StoneWall_A_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1913,7 +1913,7 @@
         },
         {
             "ImageID": 14746,
-            "PngName": "StoneWall_C_4_v001.png",
+            "FileName": "StoneWall_C_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1926,7 +1926,7 @@
         },
         {
             "ImageID": 14712,
-            "PngName": "StoneWall_B_1_v000.png",
+            "FileName": "StoneWall_B_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1939,7 +1939,7 @@
         },
         {
             "ImageID": 14747,
-            "PngName": "StoneWall_C_4.2_v001.png",
+            "FileName": "StoneWall_C_4.2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1952,7 +1952,7 @@
         },
         {
             "ImageID": 14745,
-            "PngName": "StoneWall_A_4.2_v000.png",
+            "FileName": "StoneWall_A_4.2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1965,7 +1965,7 @@
         },
         {
             "ImageID": 14832,
-            "PngName": "Stone_little_6_v000.png",
+            "FileName": "Stone_little_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1978,7 +1978,7 @@
         },
         {
             "ImageID": 14834,
-            "PngName": "Stone_little_12_v000.png",
+            "FileName": "Stone_little_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -1991,7 +1991,7 @@
         },
         {
             "ImageID": 14830,
-            "PngName": "Stone_little_8_v000.png",
+            "FileName": "Stone_little_8_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2004,7 +2004,7 @@
         },
         {
             "ImageID": 14836,
-            "PngName": "Stone_little_11_v000.png",
+            "FileName": "Stone_little_11_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2017,7 +2017,7 @@
         },
         {
             "ImageID": 14824,
-            "PngName": "Stone_little_10_v000.png",
+            "FileName": "Stone_little_10_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2030,7 +2030,7 @@
         },
         {
             "ImageID": 14831,
-            "PngName": "Stone_little_9_v000.png",
+            "FileName": "Stone_little_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2043,7 +2043,7 @@
         },
         {
             "ImageID": 14828,
-            "PngName": "Stone_little_5_v000.png",
+            "FileName": "Stone_little_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2056,7 +2056,7 @@
         },
         {
             "ImageID": 14829,
-            "PngName": "Stone_little_4_v000.png",
+            "FileName": "Stone_little_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2069,7 +2069,7 @@
         },
         {
             "ImageID": 14833,
-            "PngName": "Stone_little_7_v000.png",
+            "FileName": "Stone_little_7_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2082,7 +2082,7 @@
         },
         {
             "ImageID": 14814,
-            "PngName": "Bank_Curved180_2_BR_v000.png",
+            "FileName": "Bank_Curved180_2_BR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2095,7 +2095,7 @@
         },
         {
             "ImageID": 14815,
-            "PngName": "Bank_Curved180_2_BL_000.png",
+            "FileName": "Bank_Curved180_2_BL_000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2108,7 +2108,7 @@
         },
         {
             "ImageID": 14817,
-            "PngName": "Bank_Curved180_1_TR_v000.png",
+            "FileName": "Bank_Curved180_1_TR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2121,7 +2121,7 @@
         },
         {
             "ImageID": 14819,
-            "PngName": "Bank_Straight_TL _v000.png",
+            "FileName": "Bank_Straight_TL _v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2134,7 +2134,7 @@
         },
         {
             "ImageID": 14820,
-            "PngName": "Bank_Curved90_1_L_v000.png",
+            "FileName": "Bank_Curved90_1_L_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2147,7 +2147,7 @@
         },
         {
             "ImageID": 14823,
-            "PngName": "Shadow_v000.png",
+            "FileName": "Shadow_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2160,7 +2160,7 @@
         },
         {
             "ImageID": 14825,
-            "PngName": "Stone_little_14_v000.png",
+            "FileName": "Stone_little_14_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2173,7 +2173,7 @@
         },
         {
             "ImageID": 14835,
-            "PngName": "Stone_little_2_v000.png",
+            "FileName": "Stone_little_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2186,7 +2186,7 @@
         },
         {
             "ImageID": 14944,
-            "PngName": "StoneUnderwater_18_v000.png",
+            "FileName": "StoneUnderwater_18_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2199,7 +2199,7 @@
         },
         {
             "ImageID": 14945,
-            "PngName": "Fish_1_v000.png",
+            "FileName": "Fish_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2212,7 +2212,7 @@
         },
         {
             "ImageID": 14946,
-            "PngName": "Fish_2_v000.png",
+            "FileName": "Fish_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2225,7 +2225,7 @@
         },
         {
             "ImageID": 14947,
-            "PngName": "BlueCoral_1_v001.png",
+            "FileName": "BlueCoral_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2238,7 +2238,7 @@
         },
         {
             "ImageID": 14950,
-            "PngName": "PurpleCoral_5_v001.png",
+            "FileName": "PurpleCoral_5_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2251,7 +2251,7 @@
         },
         {
             "ImageID": 14954,
-            "PngName": "SeaWeed_3_v001.png",
+            "FileName": "SeaWeed_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2264,7 +2264,7 @@
         },
         {
             "ImageID": 14955,
-            "PngName": "SeaWeed_4_v001.png",
+            "FileName": "SeaWeed_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2277,7 +2277,7 @@
         },
         {
             "ImageID": 14718,
-            "PngName": "Palm_Little_1_v000.png",
+            "FileName": "Palm_Little_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2290,7 +2290,7 @@
         },
         {
             "ImageID": 14868,
-            "PngName": "CampHammock_2_v001.png",
+            "FileName": "CampHammock_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2303,7 +2303,7 @@
         },
         {
             "ImageID": 14861,
-            "PngName": "Jar_Orange_2_v002.png",
+            "FileName": "Jar_Orange_2_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2316,7 +2316,7 @@
         },
         {
             "ImageID": 14741,
-            "PngName": "Bamboo_Chair_3_v000.png",
+            "FileName": "Bamboo_Chair_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2329,7 +2329,7 @@
         },
         {
             "ImageID": 14674,
-            "PngName": "BananaBasket_v000.png",
+            "FileName": "BananaBasket_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2342,7 +2342,7 @@
         },
         {
             "ImageID": 14738,
-            "PngName": "Bamboo_Chair_2_v000.png",
+            "FileName": "Bamboo_Chair_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2355,7 +2355,7 @@
         },
         {
             "ImageID": 14805,
-            "PngName": "Variety_Boat_2_v000.png",
+            "FileName": "Variety_Boat_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2368,7 +2368,7 @@
         },
         {
             "ImageID": 14808,
-            "PngName": "Variety_Anchors_1_v000.png",
+            "FileName": "Variety_Anchors_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2381,7 +2381,7 @@
         },
         {
             "ImageID": 14809,
-            "PngName": "Variety_Anchors_2_v000.png",
+            "FileName": "Variety_Anchors_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2394,7 +2394,7 @@
         },
         {
             "ImageID": 14938,
-            "PngName": "SurfboardStation_2_v000.png",
+            "FileName": "SurfboardStation_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2407,7 +2407,7 @@
         },
         {
             "ImageID": 14939,
-            "PngName": "SurfboardStation_1_v000.png",
+            "FileName": "SurfboardStation_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2420,7 +2420,7 @@
         },
         {
             "ImageID": 14780,
-            "PngName": "BambooTree_1_v000.png",
+            "FileName": "BambooTree_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2433,7 +2433,7 @@
         },
         {
             "ImageID": 14778,
-            "PngName": "BambooTree_3_v000.png",
+            "FileName": "BambooTree_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2446,7 +2446,7 @@
         },
         {
             "ImageID": 14779,
-            "PngName": "BambooTree_2_v000.png",
+            "FileName": "BambooTree_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2459,7 +2459,7 @@
         },
         {
             "ImageID": 14874,
-            "PngName": "Instrument_8_v000.png",
+            "FileName": "Instrument_8_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2472,7 +2472,7 @@
         },
         {
             "ImageID": 14671,
-            "PngName": "Flower_Pink_2_v000.png",
+            "FileName": "Flower_Pink_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2485,7 +2485,7 @@
         },
         {
             "ImageID": 14856,
-            "PngName": "Flowers_bushes_1_v000.png",
+            "FileName": "Flowers_bushes_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2498,7 +2498,7 @@
         },
         {
             "ImageID": 14935,
-            "PngName": "Instrument_3_v000.png",
+            "FileName": "Instrument_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2511,7 +2511,7 @@
         },
         {
             "ImageID": 14873,
-            "PngName": "Instrument_6_v000.png",
+            "FileName": "Instrument_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2524,7 +2524,7 @@
         },
         {
             "ImageID": 14936,
-            "PngName": "Instrument_5_v000.png",
+            "FileName": "Instrument_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2537,7 +2537,7 @@
         },
         {
             "ImageID": 14929,
-            "PngName": "BambooCup_4_v000.png",
+            "FileName": "BambooCup_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2550,7 +2550,7 @@
         },
         {
             "ImageID": 14930,
-            "PngName": "BambooCup_5_v000.png",
+            "FileName": "BambooCup_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2563,7 +2563,7 @@
         },
         {
             "ImageID": 14931,
-            "PngName": "OrangeBowl_v000.png",
+            "FileName": "OrangeBowl_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2576,7 +2576,7 @@
         },
         {
             "ImageID": 14932,
-            "PngName": "SpoonPlate_3_v000.png",
+            "FileName": "SpoonPlate_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2589,7 +2589,7 @@
         },
         {
             "ImageID": 14933,
-            "PngName": "BambooCup_2_v000.png",
+            "FileName": "BambooCup_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2602,7 +2602,7 @@
         },
         {
             "ImageID": 14799,
-            "PngName": "Shell_5_v000.png",
+            "FileName": "Shell_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2615,7 +2615,7 @@
         },
         {
             "ImageID": 14775,
-            "PngName": "Shell_3_v000.png",
+            "FileName": "Shell_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2628,7 +2628,7 @@
         },
         {
             "ImageID": 14926,
-            "PngName": "Shell_4_v000.png",
+            "FileName": "Shell_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2641,7 +2641,7 @@
         },
         {
             "ImageID": 14925,
-            "PngName": "Plate_Burried_1_v000.png",
+            "FileName": "Plate_Burried_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2654,7 +2654,7 @@
         },
         {
             "ImageID": 14862,
-            "PngName": "Jar_Orange_1_v002.png",
+            "FileName": "Jar_Orange_1_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2667,7 +2667,7 @@
         },
         {
             "ImageID": 14924,
-            "PngName": "MangoBasket_v000.png",
+            "FileName": "MangoBasket_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2680,7 +2680,7 @@
         },
         {
             "ImageID": 14798,
-            "PngName": "Jar_Burried_8_v000.png",
+            "FileName": "Jar_Burried_8_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2693,7 +2693,7 @@
         },
         {
             "ImageID": 14982,
-            "PngName": "Stepping stone_8_A_v000.png",
+            "FileName": "Stepping stone_8_A_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2706,7 +2706,7 @@
         },
         {
             "ImageID": 14978,
-            "PngName": "Stepping stone_2_A_v000.png",
+            "FileName": "Stepping stone_2_A_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2719,7 +2719,7 @@
         },
         {
             "ImageID": 14999,
-            "PngName": "Basket_Tomatoes_1_v000.png",
+            "FileName": "Basket_Tomatoes_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2732,7 +2732,7 @@
         },
         {
             "ImageID": 14914,
-            "PngName": "Jar_Burried_1_v000.png",
+            "FileName": "Jar_Burried_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2745,7 +2745,7 @@
         },
         {
             "ImageID": 14890,
-            "PngName": "Instrument_11_v000.png",
+            "FileName": "Instrument_11_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2758,7 +2758,7 @@
         },
         {
             "ImageID": 14860,
-            "PngName": "Bamboo_Bench_1_v001.png",
+            "FileName": "Bamboo_Bench_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2771,7 +2771,7 @@
         },
         {
             "ImageID": 15001,
-            "PngName": "BoundaryMarkers_Fire_v002.png",
+            "FileName": "BoundaryMarkers_Fire_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2784,7 +2784,7 @@
         },
         {
             "ImageID": 14922,
-            "PngName": "Jar_Burried_3_v000.png",
+            "FileName": "Jar_Burried_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2797,7 +2797,7 @@
         },
         {
             "ImageID": 14984,
-            "PngName": "Stepping stone_5_A_v000.png",
+            "FileName": "Stepping stone_5_A_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2810,7 +2810,7 @@
         },
         {
             "ImageID": 14983,
-            "PngName": "Stepping stone_3_A_v000.png",
+            "FileName": "Stepping stone_3_A_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2823,7 +2823,7 @@
         },
         {
             "ImageID": 14980,
-            "PngName": "Stepping stone_7_A_v000.png",
+            "FileName": "Stepping stone_7_A_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2836,7 +2836,7 @@
         },
         {
             "ImageID": 14985,
-            "PngName": "Stepping stone_4_B_v000.png",
+            "FileName": "Stepping stone_4_B_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2849,7 +2849,7 @@
         },
         {
             "ImageID": 14976,
-            "PngName": "Stepping stone_1_B_v000.png",
+            "FileName": "Stepping stone_1_B_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2862,7 +2862,7 @@
         },
         {
             "ImageID": 14979,
-            "PngName": "Stepping stone_6_B_v000.png",
+            "FileName": "Stepping stone_6_B_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2875,7 +2875,7 @@
         },
         {
             "ImageID": 14977,
-            "PngName": "Stepping stone_10_A_v000.png",
+            "FileName": "Stepping stone_10_A_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2888,7 +2888,7 @@
         },
         {
             "ImageID": 14981,
-            "PngName": "Stepping stone_9_A_v000.png",
+            "FileName": "Stepping stone_9_A_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2901,7 +2901,7 @@
         },
         {
             "ImageID": 14992,
-            "PngName": "Mushroom_Red_4_v001.png",
+            "FileName": "Mushroom_Red_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2914,7 +2914,7 @@
         },
         {
             "ImageID": 14986,
-            "PngName": "Mushroom_Red_2_v001.png",
+            "FileName": "Mushroom_Red_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2927,7 +2927,7 @@
         },
         {
             "ImageID": 14987,
-            "PngName": "Mushroom_Red_3_v001.png",
+            "FileName": "Mushroom_Red_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2940,7 +2940,7 @@
         },
         {
             "ImageID": 14993,
-            "PngName": "Mushroom_Red_1_v001.png",
+            "FileName": "Mushroom_Red_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2953,7 +2953,7 @@
         },
         {
             "ImageID": 14988,
-            "PngName": "Mushroom_Blue_1_v001.png",
+            "FileName": "Mushroom_Blue_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2966,7 +2966,7 @@
         },
         {
             "ImageID": 14989,
-            "PngName": "Mushroom_Blue_2_v001.png",
+            "FileName": "Mushroom_Blue_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2979,7 +2979,7 @@
         },
         {
             "ImageID": 14990,
-            "PngName": "Mushroom_Blue_3_v001.png",
+            "FileName": "Mushroom_Blue_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -2992,7 +2992,7 @@
         },
         {
             "ImageID": 14991,
-            "PngName": "Mushroom_Blue_4_v001.png",
+            "FileName": "Mushroom_Blue_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3005,7 +3005,7 @@
         },
         {
             "ImageID": 14724,
-            "PngName": "Torch_2_v000.png",
+            "FileName": "Torch_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3018,7 +3018,7 @@
         },
         {
             "ImageID": 14974,
-            "PngName": "Crystal_Pink_3_v000.png",
+            "FileName": "Crystal_Pink_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3031,7 +3031,7 @@
         },
         {
             "ImageID": 14975,
-            "PngName": "Crystal_Pink_2_v000.png",
+            "FileName": "Crystal_Pink_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3044,7 +3044,7 @@
         },
         {
             "ImageID": 14973,
-            "PngName": "Crystal_Pink_1_v000.png",
+            "FileName": "Crystal_Pink_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3057,7 +3057,7 @@
         },
         {
             "ImageID": 14961,
-            "PngName": "BlueCoral_3_v001.png",
+            "FileName": "BlueCoral_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3070,7 +3070,7 @@
         },
         {
             "ImageID": 14965,
-            "PngName": "YellowCoral_v001.png",
+            "FileName": "YellowCoral_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3083,7 +3083,7 @@
         },
         {
             "ImageID": 14960,
-            "PngName": "StoneUnderwater_37_v000.png",
+            "FileName": "StoneUnderwater_37_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3096,7 +3096,7 @@
         },
         {
             "ImageID": 14948,
-            "PngName": "BlueCoral_2_v001.png",
+            "FileName": "BlueCoral_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3109,7 +3109,7 @@
         },
         {
             "ImageID": 14953,
-            "PngName": "SeaWeed_1_v001.png",
+            "FileName": "SeaWeed_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3122,7 +3122,7 @@
         },
         {
             "ImageID": 14952,
-            "PngName": "SeaWeed_2_v001.png",
+            "FileName": "SeaWeed_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3135,7 +3135,7 @@
         },
         {
             "ImageID": 14962,
-            "PngName": "PurpleCoral_2_v001.png",
+            "FileName": "PurpleCoral_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3148,7 +3148,7 @@
         },
         {
             "ImageID": 15004,
-            "PngName": "SeaWater_1_v000.png",
+            "FileName": "SeaWater_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3161,7 +3161,7 @@
         },
         {
             "ImageID": 15058,
-            "PngName": "SeaRipples_1_v000.png",
+            "FileName": "SeaRipples_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3174,7 +3174,7 @@
         },
         {
             "ImageID": 15059,
-            "PngName": "SeaRipples_2_v000.png",
+            "FileName": "SeaRipples_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3187,7 +3187,7 @@
         },
         {
             "ImageID": 15061,
-            "PngName": "SeaRipples_3_v000.png",
+            "FileName": "SeaRipples_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3200,7 +3200,7 @@
         },
         {
             "ImageID": 14966,
-            "PngName": "Foam_4_v000.png",
+            "FileName": "Foam_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3213,7 +3213,7 @@
         },
         {
             "ImageID": 14968,
-            "PngName": "Foam_12_v000.png",
+            "FileName": "Foam_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3226,7 +3226,7 @@
         },
         {
             "ImageID": 14971,
-            "PngName": "Foam_1_v000.png",
+            "FileName": "Foam_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3239,7 +3239,7 @@
         },
         {
             "ImageID": 15060,
-            "PngName": "SeaRipples_1.2_v000.png",
+            "FileName": "SeaRipples_1.2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3252,7 +3252,7 @@
         },
         {
             "ImageID": 15006,
-            "PngName": "SeaBank_BL_v000.png",
+            "FileName": "SeaBank_BL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3265,7 +3265,7 @@
         },
         {
             "ImageID": 15007,
-            "PngName": "SeaBank_TR_v000.png",
+            "FileName": "SeaBank_TR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3278,7 +3278,7 @@
         },
         {
             "ImageID": 15015,
-            "PngName": "StoneUnderwater_5_v000.png",
+            "FileName": "StoneUnderwater_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3291,7 +3291,7 @@
         },
         {
             "ImageID": 15019,
-            "PngName": "StoneUnderwater_14_v000.png",
+            "FileName": "StoneUnderwater_14_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3304,7 +3304,7 @@
         },
         {
             "ImageID": 15009,
-            "PngName": "Underwater_Stonebank_3_v000.png",
+            "FileName": "Underwater_Stonebank_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3317,7 +3317,7 @@
         },
         {
             "ImageID": 15010,
-            "PngName": "Underwater_Stonebank_2_v000.png",
+            "FileName": "Underwater_Stonebank_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3330,7 +3330,7 @@
         },
         {
             "ImageID": 15014,
-            "PngName": "StoneUnderwater_24_v000.png",
+            "FileName": "StoneUnderwater_24_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3343,7 +3343,7 @@
         },
         {
             "ImageID": 15021,
-            "PngName": "StoneUnderwater_29_v000.png",
+            "FileName": "StoneUnderwater_29_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3356,7 +3356,7 @@
         },
         {
             "ImageID": 15020,
-            "PngName": "StoneUnderwater_17_v000.png",
+            "FileName": "StoneUnderwater_17_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3369,7 +3369,7 @@
         },
         {
             "ImageID": 15024,
-            "PngName": "StoneUnderwater_26_v000.png",
+            "FileName": "StoneUnderwater_26_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3382,7 +3382,7 @@
         },
         {
             "ImageID": 14958,
-            "PngName": "StoneUnderwater_22_v000.png",
+            "FileName": "StoneUnderwater_22_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3395,7 +3395,7 @@
         },
         {
             "ImageID": 15025,
-            "PngName": "StoneUnderwater_1_v000.png",
+            "FileName": "StoneUnderwater_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3408,7 +3408,7 @@
         },
         {
             "ImageID": 15031,
-            "PngName": "StoneUnderwater_34_v000.png",
+            "FileName": "StoneUnderwater_34_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3421,7 +3421,7 @@
         },
         {
             "ImageID": 15032,
-            "PngName": "StoneUnderwater_39_v000.png",
+            "FileName": "StoneUnderwater_39_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3434,7 +3434,7 @@
         },
         {
             "ImageID": 15033,
-            "PngName": "StoneUnderwater_3_v000.png",
+            "FileName": "StoneUnderwater_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3447,7 +3447,7 @@
         },
         {
             "ImageID": 15034,
-            "PngName": "StoneUnderwater_25_v000.png",
+            "FileName": "StoneUnderwater_25_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3460,7 +3460,7 @@
         },
         {
             "ImageID": 14959,
-            "PngName": "StoneUnderwater_2_v000.png",
+            "FileName": "StoneUnderwater_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3473,7 +3473,7 @@
         },
         {
             "ImageID": 15013,
-            "PngName": "SeaWater_3_v000.png",
+            "FileName": "SeaWater_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3486,7 +3486,7 @@
         },
         {
             "ImageID": 15035,
-            "PngName": "StoneUnderwater_33_v000.png",
+            "FileName": "StoneUnderwater_33_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3499,7 +3499,7 @@
         },
         {
             "ImageID": 15036,
-            "PngName": "StoneUnderwater_4_v000.png",
+            "FileName": "StoneUnderwater_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3512,7 +3512,7 @@
         },
         {
             "ImageID": 15038,
-            "PngName": "StoneUnderwater_36_v000.png",
+            "FileName": "StoneUnderwater_36_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3525,7 +3525,7 @@
         },
         {
             "ImageID": 15039,
-            "PngName": "StoneUnderwater_35_v000.png",
+            "FileName": "StoneUnderwater_35_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3538,7 +3538,7 @@
         },
         {
             "ImageID": 15040,
-            "PngName": "StoneUnderwater_32_v000.png",
+            "FileName": "StoneUnderwater_32_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3551,7 +3551,7 @@
         },
         {
             "ImageID": 15041,
-            "PngName": "StoneUnderwater_23_v000.png",
+            "FileName": "StoneUnderwater_23_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3564,7 +3564,7 @@
         },
         {
             "ImageID": 14964,
-            "PngName": "BlueCoral_4_v001.png",
+            "FileName": "BlueCoral_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3577,7 +3577,7 @@
         },
         {
             "ImageID": 14963,
-            "PngName": "PurpleCoral_3_v001.png",
+            "FileName": "PurpleCoral_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3590,7 +3590,7 @@
         },
         {
             "ImageID": 14951,
-            "PngName": "RedCoral_1_v001.png",
+            "FileName": "RedCoral_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3603,7 +3603,7 @@
         },
         {
             "ImageID": 14949,
-            "PngName": "PurpleCoral_1_v001.png",
+            "FileName": "PurpleCoral_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3616,7 +3616,7 @@
         },
         {
             "ImageID": 15045,
-            "PngName": "Rock_Underwater_11_v000.png",
+            "FileName": "Rock_Underwater_11_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3629,7 +3629,7 @@
         },
         {
             "ImageID": 15046,
-            "PngName": "Rock_Underwater_12_v000.png",
+            "FileName": "Rock_Underwater_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3642,7 +3642,7 @@
         },
         {
             "ImageID": 15047,
-            "PngName": "Rock_Underwater_13_v000.png",
+            "FileName": "Rock_Underwater_13_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3655,7 +3655,7 @@
         },
         {
             "ImageID": 15049,
-            "PngName": "Rock_Underwater_16_v000.png",
+            "FileName": "Rock_Underwater_16_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3668,7 +3668,7 @@
         },
         {
             "ImageID": 15048,
-            "PngName": "Rock_Underwater_14_v000.png",
+            "FileName": "Rock_Underwater_14_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3681,7 +3681,7 @@
         },
         {
             "ImageID": 15050,
-            "PngName": "Rock_Underwater_15_v000.png",
+            "FileName": "Rock_Underwater_15_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3694,7 +3694,7 @@
         },
         {
             "ImageID": 15051,
-            "PngName": "Rock_Underwater_17_v000.png",
+            "FileName": "Rock_Underwater_17_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3707,7 +3707,7 @@
         },
         {
             "ImageID": 15030,
-            "PngName": "StoneUnderwater_19_v000.png",
+            "FileName": "StoneUnderwater_19_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3720,7 +3720,7 @@
         },
         {
             "ImageID": 15023,
-            "PngName": "StoneUnderwater_31_v000.png",
+            "FileName": "StoneUnderwater_31_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3733,7 +3733,7 @@
         },
         {
             "ImageID": 15052,
-            "PngName": "StoneUnderwater_12_v000.png",
+            "FileName": "StoneUnderwater_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3746,7 +3746,7 @@
         },
         {
             "ImageID": 15042,
-            "PngName": "PurpleCoral_4_v001.png",
+            "FileName": "PurpleCoral_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3759,7 +3759,7 @@
         },
         {
             "ImageID": 15055,
-            "PngName": "Crystal_Blue_1_v000.png",
+            "FileName": "Crystal_Blue_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3772,7 +3772,7 @@
         },
         {
             "ImageID": 15057,
-            "PngName": "Crystal_Blue_3_v000.png",
+            "FileName": "Crystal_Blue_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3785,7 +3785,7 @@
         },
         {
             "ImageID": 14757,
-            "PngName": "StoneWall_A_1_v000.png",
+            "FileName": "StoneWall_A_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3798,7 +3798,7 @@
         },
         {
             "ImageID": 14713,
-            "PngName": "StoneWall_C_1_v001.png",
+            "FileName": "StoneWall_C_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3811,7 +3811,7 @@
         },
         {
             "ImageID": 15099,
-            "PngName": "Axe_3_v001.png",
+            "FileName": "Axe_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3824,7 +3824,7 @@
         },
         {
             "ImageID": 14789,
-            "PngName": "BananaPalm_2_v002.png",
+            "FileName": "BananaPalm_2_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3837,7 +3837,7 @@
         },
         {
             "ImageID": 14863,
-            "PngName": "Jar_Green_v002.png",
+            "FileName": "Jar_Green_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3850,7 +3850,7 @@
         },
         {
             "ImageID": 15158,
-            "PngName": "VineFlower_1_v000.png",
+            "FileName": "VineFlower_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3863,7 +3863,7 @@
         },
         {
             "ImageID": 15159,
-            "PngName": "VineFlower_2_v000.png",
+            "FileName": "VineFlower_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3876,7 +3876,7 @@
         },
         {
             "ImageID": 15170,
-            "PngName": "VineFlower_3_v000.png",
+            "FileName": "VineFlower_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3889,7 +3889,7 @@
         },
         {
             "ImageID": 14927,
-            "PngName": "Shell_1_v000.png",
+            "FileName": "Shell_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3902,7 +3902,7 @@
         },
         {
             "ImageID": 15130,
-            "PngName": "GroupTrees_1_v000.png",
+            "FileName": "GroupTrees_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3915,7 +3915,7 @@
         },
         {
             "ImageID": 15115,
-            "PngName": "Pillar_Circle_6_v003.png",
+            "FileName": "Pillar_Circle_6_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3928,7 +3928,7 @@
         },
         {
             "ImageID": 15117,
-            "PngName": "Pillar_Circle_4_v003.png",
+            "FileName": "Pillar_Circle_4_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3941,7 +3941,7 @@
         },
         {
             "ImageID": 15054,
-            "PngName": "StoneUnderwater_38_v000.png",
+            "FileName": "StoneUnderwater_38_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3954,7 +3954,7 @@
         },
         {
             "ImageID": 15147,
-            "PngName": "Seawater_4_v000.png",
+            "FileName": "Seawater_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3967,7 +3967,7 @@
         },
         {
             "ImageID": 15043,
-            "PngName": "RedCoral_2_v001.png",
+            "FileName": "RedCoral_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3980,7 +3980,7 @@
         },
         {
             "ImageID": 14970,
-            "PngName": "Foam_2_v000.png",
+            "FileName": "Foam_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -3993,7 +3993,7 @@
         },
         {
             "ImageID": 15180,
-            "PngName": "CampHut_3_v001.png",
+            "FileName": "CampHut_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4006,7 +4006,7 @@
         },
         {
             "ImageID": 14695,
-            "PngName": "Tree_Yellow_2_v000.png",
+            "FileName": "Tree_Yellow_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4019,7 +4019,7 @@
         },
         {
             "ImageID": 14648,
-            "PngName": "Fruit_MangoTree_Trunk_3_v001.png",
+            "FileName": "Fruit_MangoTree_Trunk_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4032,7 +4032,7 @@
         },
         {
             "ImageID": 15132,
-            "PngName": "GroupTrees_2_v000.png",
+            "FileName": "GroupTrees_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4045,7 +4045,7 @@
         },
         {
             "ImageID": 15129,
-            "PngName": "Jetty_v000.png",
+            "FileName": "Jetty_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4058,7 +4058,7 @@
         },
         {
             "ImageID": 14642,
-            "PngName": "Fruit_Coconut_Leaves_1_v000.png",
+            "FileName": "Fruit_Coconut_Leaves_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4071,7 +4071,7 @@
         },
         {
             "ImageID": 15171,
-            "PngName": "VineFlower_4_v000.png",
+            "FileName": "VineFlower_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4084,7 +4084,7 @@
         },
         {
             "ImageID": 15176,
-            "PngName": "BeachChair_1_v000.png",
+            "FileName": "BeachChair_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4097,7 +4097,7 @@
         },
         {
             "ImageID": 15108,
-            "PngName": "Basket_v000.png",
+            "FileName": "Basket_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4110,7 +4110,7 @@
         },
         {
             "ImageID": 15005,
-            "PngName": "SeaWater_2_v000.png",
+            "FileName": "SeaWater_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4123,7 +4123,7 @@
         },
         {
             "ImageID": 15011,
-            "PngName": "SeaBank_BR_v000.png",
+            "FileName": "SeaBank_BR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4136,7 +4136,7 @@
         },
         {
             "ImageID": 15056,
-            "PngName": "Crystal_Blue_2_v000.png",
+            "FileName": "Crystal_Blue_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4149,7 +4149,7 @@
         },
         {
             "ImageID": 15018,
-            "PngName": "StoneUnderwater_13_v000.png",
+            "FileName": "StoneUnderwater_13_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4162,7 +4162,7 @@
         },
         {
             "ImageID": 14956,
-            "PngName": "StoneUnderwater_10_v000.png",
+            "FileName": "StoneUnderwater_10_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4175,7 +4175,7 @@
         },
         {
             "ImageID": 15016,
-            "PngName": "StoneUnderwater_6_v000.png",
+            "FileName": "StoneUnderwater_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4188,7 +4188,7 @@
         },
         {
             "ImageID": 15044,
-            "PngName": "StoneUnderwater_27_v000.png",
+            "FileName": "StoneUnderwater_27_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4201,7 +4201,7 @@
         },
         {
             "ImageID": 15022,
-            "PngName": "StoneUnderwater_30_v000.png",
+            "FileName": "StoneUnderwater_30_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4214,7 +4214,7 @@
         },
         {
             "ImageID": 15037,
-            "PngName": "StoneUnderwater_9_v000.png",
+            "FileName": "StoneUnderwater_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4227,7 +4227,7 @@
         },
         {
             "ImageID": 15026,
-            "PngName": "StoneUnderwater_20_v000.png",
+            "FileName": "StoneUnderwater_20_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4240,7 +4240,7 @@
         },
         {
             "ImageID": 15029,
-            "PngName": "StoneUnderwater_8_v000.png",
+            "FileName": "StoneUnderwater_8_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4253,7 +4253,7 @@
         },
         {
             "ImageID": 15017,
-            "PngName": "StoneUnderwater_21_v000.png",
+            "FileName": "StoneUnderwater_21_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4266,7 +4266,7 @@
         },
         {
             "ImageID": 15008,
-            "PngName": "Underwater_Stonebank_1_v000.png",
+            "FileName": "Underwater_Stonebank_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4279,7 +4279,7 @@
         },
         {
             "ImageID": 15063,
-            "PngName": "Foam_6_v000.png",
+            "FileName": "Foam_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4292,7 +4292,7 @@
         },
         {
             "ImageID": 15069,
-            "PngName": "BigStones_2_v000.png",
+            "FileName": "BigStones_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4305,7 +4305,7 @@
         },
         {
             "ImageID": 14957,
-            "PngName": "StoneUnderwater_12_v000.png",
+            "FileName": "StoneUnderwater_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4318,7 +4318,7 @@
         },
         {
             "ImageID": 14727,
-            "PngName": "Jar_Burried_2_v000.png",
+            "FileName": "Jar_Burried_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4331,7 +4331,7 @@
         },
         {
             "ImageID": 14998,
-            "PngName": "Instrument_7_v000.png",
+            "FileName": "Instrument_7_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4344,7 +4344,7 @@
         },
         {
             "ImageID": 14882,
-            "PngName": "Plant_water_3_v000.png",
+            "FileName": "Plant_water_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4357,7 +4357,7 @@
         },
         {
             "ImageID": 14649,
-            "PngName": "PlantTree_1_v001.png",
+            "FileName": "PlantTree_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4370,7 +4370,7 @@
         },
         {
             "ImageID": 14662,
-            "PngName": "PlantTree_Leaves_C_1_v001.png",
+            "FileName": "PlantTree_Leaves_C_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4383,7 +4383,7 @@
         },
         {
             "ImageID": 14891,
-            "PngName": "BambooBottle_v000.png",
+            "FileName": "BambooBottle_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4396,7 +4396,7 @@
         },
         {
             "ImageID": 14872,
-            "PngName": "Instrument_4_v000.png",
+            "FileName": "Instrument_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4409,7 +4409,7 @@
         },
         {
             "ImageID": 14934,
-            "PngName": "Instrument_2_v000.png",
+            "FileName": "Instrument_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4422,7 +4422,7 @@
         },
         {
             "ImageID": 14822,
-            "PngName": "Bank_Curved90_1_R_v000.png",
+            "FileName": "Bank_Curved90_1_R_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4435,7 +4435,7 @@
         },
         {
             "ImageID": 14821,
-            "PngName": "Bank_Curved180_1_BR_v000.png",
+            "FileName": "Bank_Curved180_1_BR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4448,7 +4448,7 @@
         },
         {
             "ImageID": 14818,
-            "PngName": "Bank_Curved90_1_T_v000.png",
+            "FileName": "Bank_Curved90_1_T_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4461,7 +4461,7 @@
         },
         {
             "ImageID": 14816,
-            "PngName": "Bank_Curved180_2_TL_v000.png",
+            "FileName": "Bank_Curved180_2_TL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4474,7 +4474,7 @@
         },
         {
             "ImageID": 14813,
-            "PngName": "Bank_Straight_BL_v000.png",
+            "FileName": "Bank_Straight_BL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4487,7 +4487,7 @@
         },
         {
             "ImageID": 14895,
-            "PngName": "Gem_Small_11_v000.png",
+            "FileName": "Gem_Small_11_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4500,7 +4500,7 @@
         },
         {
             "ImageID": 14906,
-            "PngName": "Gem_Small_3_v000.png",
+            "FileName": "Gem_Small_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4513,7 +4513,7 @@
         },
         {
             "ImageID": 14899,
-            "PngName": "Gem_Small_1_v000.png",
+            "FileName": "Gem_Small_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4526,7 +4526,7 @@
         },
         {
             "ImageID": 14904,
-            "PngName": "Gem_Small_6_v000.png",
+            "FileName": "Gem_Small_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4539,7 +4539,7 @@
         },
         {
             "ImageID": 14653,
-            "PngName": "PlantTree_Leaves_F_1_v001.png",
+            "FileName": "PlantTree_Leaves_F_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4552,7 +4552,7 @@
         },
         {
             "ImageID": 14664,
-            "PngName": "PlantTree_Leaves_F_2_v001.png",
+            "FileName": "PlantTree_Leaves_F_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4565,7 +4565,7 @@
         },
         {
             "ImageID": 14717,
-            "PngName": "Palm_Little_3_v000.png",
+            "FileName": "Palm_Little_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4578,7 +4578,7 @@
         },
         {
             "ImageID": 14719,
-            "PngName": "Turtle_Base_v000.png",
+            "FileName": "Turtle_Base_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4591,7 +4591,7 @@
         },
         {
             "ImageID": 14885,
-            "PngName": "Turtle_1_v000.png",
+            "FileName": "Turtle_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4604,7 +4604,7 @@
         },
         {
             "ImageID": 14913,
-            "PngName": "Jar_Burried_6_v000.png",
+            "FileName": "Jar_Burried_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4617,7 +4617,7 @@
         },
         {
             "ImageID": 14911,
-            "PngName": "HeartStoneFountain_2_Rocks_v001.png",
+            "FileName": "HeartStoneFountain_2_Rocks_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4630,7 +4630,7 @@
         },
         {
             "ImageID": 14811,
-            "PngName": "Bank_Curved90_2_R_v000.png",
+            "FileName": "Bank_Curved90_2_R_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4643,7 +4643,7 @@
         },
         {
             "ImageID": 14750,
-            "PngName": "Significance_Benches_L_v000.png",
+            "FileName": "Significance_Benches_L_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4656,7 +4656,7 @@
         },
         {
             "ImageID": 14711,
-            "PngName": "StoneWall_C_2_v000.png",
+            "FileName": "StoneWall_C_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4669,7 +4669,7 @@
         },
         {
             "ImageID": 14731,
-            "PngName": "Contribuition_BreadTable_v000.png",
+            "FileName": "Contribuition_BreadTable_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4682,7 +4682,7 @@
         },
         {
             "ImageID": 14736,
-            "PngName": "Contribuition_PotsShelf_v000.png",
+            "FileName": "Contribuition_PotsShelf_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4695,7 +4695,7 @@
         },
         {
             "ImageID": 14812,
-            "PngName": "Bank_Curved180_1_BL_v000.png",
+            "FileName": "Bank_Curved180_1_BL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4708,7 +4708,7 @@
         },
         {
             "ImageID": 14865,
-            "PngName": "WaterFountain_1_v001.png",
+            "FileName": "WaterFountain_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4721,7 +4721,7 @@
         },
         {
             "ImageID": 14912,
-            "PngName": "HeartStoneFountain_2_v001.png",
+            "FileName": "HeartStoneFountain_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4734,7 +4734,7 @@
         },
         {
             "ImageID": 14691,
-            "PngName": "Palm_Little_2_v000.png",
+            "FileName": "Palm_Little_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4747,7 +4747,7 @@
         },
         {
             "ImageID": 14903,
-            "PngName": "Gem_Small_13_v000.png",
+            "FileName": "Gem_Small_13_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4760,7 +4760,7 @@
         },
         {
             "ImageID": 14806,
-            "PngName": "Variety_Boat_1_v000.png",
+            "FileName": "Variety_Boat_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4773,7 +4773,7 @@
         },
         {
             "ImageID": 14937,
-            "PngName": "Instrument_7_v000.png",
+            "FileName": "Instrument_7_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4786,7 +4786,7 @@
         },
         {
             "ImageID": 14928,
-            "PngName": "CoconutBasket_v000.png",
+            "FileName": "CoconutBasket_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4799,7 +4799,7 @@
         },
         {
             "ImageID": 14694,
-            "PngName": "Tree_Yellow_1_v000.png",
+            "FileName": "Tree_Yellow_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4812,7 +4812,7 @@
         },
         {
             "ImageID": 14923,
-            "PngName": "BambooSpout_1_v000.png",
+            "FileName": "BambooSpout_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4825,7 +4825,7 @@
         },
         {
             "ImageID": 14967,
-            "PngName": "Foam_13_v000.png",
+            "FileName": "Foam_13_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4838,7 +4838,7 @@
         },
         {
             "ImageID": 15027,
-            "PngName": "StoneUnderwater_15_v000.png",
+            "FileName": "StoneUnderwater_15_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4851,7 +4851,7 @@
         },
         {
             "ImageID": 15094,
-            "PngName": "PineTree_3_v000.png",
+            "FileName": "PineTree_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4864,7 +4864,7 @@
         },
         {
             "ImageID": 14916,
-            "PngName": "CampHammock_1_v001.png",
+            "FileName": "CampHammock_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4877,7 +4877,7 @@
         },
         {
             "ImageID": 14692,
-            "PngName": "Fruit_MangoTree_Trunk_2_v001.png",
+            "FileName": "Fruit_MangoTree_Trunk_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4890,7 +4890,7 @@
         },
         {
             "ImageID": 14641,
-            "PngName": "Fruit_Coconut_Trunk_2_v001.png",
+            "FileName": "Fruit_Coconut_Trunk_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4903,7 +4903,7 @@
         },
         {
             "ImageID": 15088,
-            "PngName": "BananaPalm_3_v002.png",
+            "FileName": "BananaPalm_3_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4916,7 +4916,7 @@
         },
         {
             "ImageID": 15093,
-            "PngName": "PineTree_4_v000.png",
+            "FileName": "PineTree_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4929,7 +4929,7 @@
         },
         {
             "ImageID": 15066,
-            "PngName": "Foam_8_v000.png",
+            "FileName": "Foam_8_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4942,7 +4942,7 @@
         },
         {
             "ImageID": 15064,
-            "PngName": "Foam_7_v000.png",
+            "FileName": "Foam_7_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4955,7 +4955,7 @@
         },
         {
             "ImageID": 14997,
-            "PngName": "Instrument_2_v000.png",
+            "FileName": "Instrument_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4968,7 +4968,7 @@
         },
         {
             "ImageID": 14643,
-            "PngName": "Fruit_Coconut_Trunk_1_v001.png",
+            "FileName": "Fruit_Coconut_Trunk_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4981,7 +4981,7 @@
         },
         {
             "ImageID": 14907,
-            "PngName": "PlantTree_Leaves_E_2_v001.png",
+            "FileName": "PlantTree_Leaves_E_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -4994,7 +4994,7 @@
         },
         {
             "ImageID": 14877,
-            "PngName": "Basket_Flower_v000.png",
+            "FileName": "Basket_Flower_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5007,7 +5007,7 @@
         },
         {
             "ImageID": 14889,
-            "PngName": "TotemArch_L_Green_v001.png",
+            "FileName": "TotemArch_L_Green_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5020,7 +5020,7 @@
         },
         {
             "ImageID": 14920,
-            "PngName": "6Paths_v000.png",
+            "FileName": "6Paths_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5033,7 +5033,7 @@
         },
         {
             "ImageID": 14765,
-            "PngName": "Totem_L_2_Yellow_v001.png",
+            "FileName": "Totem_L_2_Yellow_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5046,7 +5046,7 @@
         },
         {
             "ImageID": 14733,
-            "PngName": "Contribuition_FWalls_v000.png",
+            "FileName": "Contribuition_FWalls_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5059,7 +5059,7 @@
         },
         {
             "ImageID": 14921,
-            "PngName": "Lake_2_v000.png",
+            "FileName": "Lake_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5072,7 +5072,7 @@
         },
         {
             "ImageID": 14884,
-            "PngName": "Turtle_2_v000.png",
+            "FileName": "Turtle_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5085,7 +5085,7 @@
         },
         {
             "ImageID": 14656,
-            "PngName": "Fruit_MangoTree_Trunk_4_v001.png",
+            "FileName": "Fruit_MangoTree_Trunk_4_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5098,7 +5098,7 @@
         },
         {
             "ImageID": 14897,
-            "PngName": "Gem_Small_15_v000.png",
+            "FileName": "Gem_Small_15_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5111,7 +5111,7 @@
         },
         {
             "ImageID": 14802,
-            "PngName": "Variety_SurfBoards_v000.png",
+            "FileName": "Variety_SurfBoards_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5124,7 +5124,7 @@
         },
         {
             "ImageID": 14940,
-            "PngName": "SurfboardStation_4_v000.png",
+            "FileName": "SurfboardStation_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5137,7 +5137,7 @@
         },
         {
             "ImageID": 15070,
-            "PngName": "BigStones_3_v000.png",
+            "FileName": "BigStones_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5150,7 +5150,7 @@
         },
         {
             "ImageID": 15028,
-            "PngName": "StoneUnderwater_7_v000.png",
+            "FileName": "StoneUnderwater_7_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5163,7 +5163,7 @@
         },
         {
             "ImageID": 15167,
-            "PngName": "TreeSwing_v000.png",
+            "FileName": "TreeSwing_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5176,7 +5176,7 @@
         },
         {
             "ImageID": 14969,
-            "PngName": "Foam_5_v000.png",
+            "FileName": "Foam_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5189,7 +5189,7 @@
         },
         {
             "ImageID": 15068,
-            "PngName": "BigStones_1_v000.png",
+            "FileName": "BigStones_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5202,7 +5202,7 @@
         },
         {
             "ImageID": 15062,
-            "PngName": "Foam_3_v000.png",
+            "FileName": "Foam_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5215,7 +5215,7 @@
         },
         {
             "ImageID": 14858,
-            "PngName": "Bush_Arch_3_v000.png",
+            "FileName": "Bush_Arch_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5228,7 +5228,7 @@
         },
         {
             "ImageID": 14794,
-            "PngName": "Totem_R_1_Green_v001.png",
+            "FileName": "Totem_R_1_Green_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5241,7 +5241,7 @@
         },
         {
             "ImageID": 14942,
-            "PngName": "SurfboardStation_3_v000.png",
+            "FileName": "SurfboardStation_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5254,7 +5254,7 @@
         },
         {
             "ImageID": 14804,
-            "PngName": "Variety_BoatShelf_v000.png",
+            "FileName": "Variety_BoatShelf_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5267,7 +5267,7 @@
         },
         {
             "ImageID": 14867,
-            "PngName": "PlantTree_2_v001.png",
+            "FileName": "PlantTree_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5280,7 +5280,7 @@
         },
         {
             "ImageID": 14841,
-            "PngName": "WaterFall_Stones_v001.png",
+            "FileName": "WaterFall_Stones_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5293,7 +5293,7 @@
         },
         {
             "ImageID": 14909,
-            "PngName": "HeartStoneFountain_Rocks_1_v001.png",
+            "FileName": "HeartStoneFountain_Rocks_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5306,7 +5306,7 @@
         },
         {
             "ImageID": 14728,
-            "PngName": "Contribuition_BonfireWall_v000.png",
+            "FileName": "Contribuition_BonfireWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5319,7 +5319,7 @@
         },
         {
             "ImageID": 14866,
-            "PngName": "Bush_Arch_1_v000.png",
+            "FileName": "Bush_Arch_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5332,7 +5332,7 @@
         },
         {
             "ImageID": 14870,
-            "PngName": "Instrument_10_v000.png",
+            "FileName": "Instrument_10_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5345,7 +5345,7 @@
         },
         {
             "ImageID": 14887,
-            "PngName": "Totem_L_2_Green_v001.png",
+            "FileName": "Totem_L_2_Green_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5358,7 +5358,7 @@
         },
         {
             "ImageID": 14996,
-            "PngName": "Instrument_3_v000.png",
+            "FileName": "Instrument_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5371,7 +5371,7 @@
         },
         {
             "ImageID": 14915,
-            "PngName": "Bush_Arch_2_v000.png",
+            "FileName": "Bush_Arch_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5384,7 +5384,7 @@
         },
         {
             "ImageID": 15131,
-            "PngName": "ElderSprings_v000.png",
+            "FileName": "ElderSprings_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5397,7 +5397,7 @@
         },
         {
             "ImageID": 15193,
-            "PngName": "TotemArch_L_v001.png",
+            "FileName": "TotemArch_L_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5410,7 +5410,7 @@
         },
         {
             "ImageID": 14790,
-            "PngName": "Totem_R_2_Yellow_v001.png",
+            "FileName": "Totem_R_2_Yellow_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5423,7 +5423,7 @@
         },
         {
             "ImageID": 15002,
-            "PngName": "PineTree_1_v000.png",
+            "FileName": "PineTree_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5436,7 +5436,7 @@
         },
         {
             "ImageID": 15000,
-            "PngName": "BambooSpout_2_v000.png",
+            "FileName": "BambooSpout_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5449,7 +5449,7 @@
         },
         {
             "ImageID": 14910,
-            "PngName": "HeartStoneFountain_1_v001.png",
+            "FileName": "HeartStoneFountain_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5462,7 +5462,7 @@
         },
         {
             "ImageID": 14715,
-            "PngName": "PlantTree_Leaves_A_1_v001.png",
+            "FileName": "PlantTree_Leaves_A_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5475,7 +5475,7 @@
         },
         {
             "ImageID": 14754,
-            "PngName": "HornStairs_v002.png",
+            "FileName": "HornStairs_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5488,7 +5488,7 @@
         },
         {
             "ImageID": 14729,
-            "PngName": "Contribuition_Bonfire_v000.png",
+            "FileName": "Contribuition_Bonfire_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5501,7 +5501,7 @@
         },
         {
             "ImageID": 14764,
-            "PngName": "Totem_L_1_Yellow_v001.png",
+            "FileName": "Totem_L_1_Yellow_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5514,7 +5514,7 @@
         },
         {
             "ImageID": 14894,
-            "PngName": "Gem_Big_2_v000.png",
+            "FileName": "Gem_Big_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5527,7 +5527,7 @@
         },
         {
             "ImageID": 14941,
-            "PngName": "SurfboardStation_5_v000.png",
+            "FileName": "SurfboardStation_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5540,7 +5540,7 @@
         },
         {
             "ImageID": 14893,
-            "PngName": "TotemArch_R_Green_v001.png",
+            "FileName": "TotemArch_R_Green_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5553,7 +5553,7 @@
         },
         {
             "ImageID": 14869,
-            "PngName": "Instrument_12_v000.png",
+            "FileName": "Instrument_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5566,7 +5566,7 @@
         },
         {
             "ImageID": 15003,
-            "PngName": "PineTree_2_v000.png",
+            "FileName": "PineTree_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5579,7 +5579,7 @@
         },
         {
             "ImageID": 15192,
-            "PngName": "BigPalm_v000.png",
+            "FileName": "BigPalm_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5592,7 +5592,7 @@
         },
         {
             "ImageID": 15148,
-            "PngName": "OnuMountain_v000.png",
+            "FileName": "OnuMountain_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5605,7 +5605,7 @@
         },
         {
             "ImageID": 14730,
-            "PngName": "Contribuition_BWalls_v000.png",
+            "FileName": "Contribuition_BWalls_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5618,7 +5618,7 @@
         },
         {
             "ImageID": 14943,
-            "PngName": "Lake_1_v000.png",
+            "FileName": "Lake_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5631,7 +5631,7 @@
         },
         {
             "ImageID": 14876,
-            "PngName": "FlowerStation_v000.png",
+            "FileName": "FlowerStation_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5644,7 +5644,7 @@
         },
         {
             "ImageID": 14995,
-            "PngName": "Instrument_12_v000.png",
+            "FileName": "Instrument_12_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5657,7 +5657,7 @@
         },
         {
             "ImageID": 15169,
-            "PngName": "JuiceStation_1_v000.png",
+            "FileName": "JuiceStation_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5670,7 +5670,7 @@
         },
         {
             "ImageID": 14795,
-            "PngName": "TotemArch_R_v001.png",
+            "FileName": "TotemArch_R_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5683,7 +5683,7 @@
         },
         {
             "ImageID": 15067,
-            "PngName": "Foam_10_v000.png",
+            "FileName": "Foam_10_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5696,7 +5696,7 @@
         },
         {
             "ImageID": 14905,
-            "PngName": "Tree_Gem_1_v000.png",
+            "FileName": "Tree_Gem_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5709,7 +5709,7 @@
         },
         {
             "ImageID": 15065,
-            "PngName": "Foam_9_v000.png",
+            "FileName": "Foam_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5722,7 +5722,7 @@
         },
         {
             "ImageID": 14918,
-            "PngName": "Fruit_PinneaplePlant_3_v000.png",
+            "FileName": "Fruit_PinneaplePlant_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5735,7 +5735,7 @@
         },
         {
             "ImageID": 14919,
-            "PngName": "Fruit_Pinneaple_2_v000.png",
+            "FileName": "Fruit_Pinneaple_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5748,7 +5748,7 @@
         },
         {
             "ImageID": 14685,
-            "PngName": "Fruit_PinneaplePlant_1_v000.png",
+            "FileName": "Fruit_PinneaplePlant_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5761,7 +5761,7 @@
         },
         {
             "ImageID": 14686,
-            "PngName": "Fruit_Pinneaple_1_v000.png",
+            "FileName": "Fruit_Pinneaple_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5774,7 +5774,7 @@
         },
         {
             "ImageID": 15095,
-            "PngName": "BambooSpout_3_v000.png",
+            "FileName": "BambooSpout_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5787,7 +5787,7 @@
         },
         {
             "ImageID": 14697,
-            "PngName": "Certainty_Shelf_1_v000.png",
+            "FileName": "Certainty_Shelf_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5800,7 +5800,7 @@
         },
         {
             "ImageID": 15103,
-            "PngName": "Fruit_Pinneaple_3_v000.png",
+            "FileName": "Fruit_Pinneaple_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5813,7 +5813,7 @@
         },
         {
             "ImageID": 14751,
-            "PngName": "Significance_Benches_R_v000.png",
+            "FileName": "Significance_Benches_R_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5826,7 +5826,7 @@
         },
         {
             "ImageID": 14735,
-            "PngName": "Contribuition_CoconutTable_v000.png",
+            "FileName": "Contribuition_CoconutTable_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5839,7 +5839,7 @@
         },
         {
             "ImageID": 14699,
-            "PngName": "Certainty_Shelf_5_v000.png",
+            "FileName": "Certainty_Shelf_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5852,7 +5852,7 @@
         },
         {
             "ImageID": 14704,
-            "PngName": "Contribuition_Basket_1_v000.png",
+            "FileName": "Contribuition_Basket_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5865,7 +5865,7 @@
         },
         {
             "ImageID": 14701,
-            "PngName": "Certainty_Jug_1_v000.png",
+            "FileName": "Certainty_Jug_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5878,7 +5878,7 @@
         },
         {
             "ImageID": 14709,
-            "PngName": "StoneWall_A_1.2_v001.png",
+            "FileName": "StoneWall_A_1.2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5891,7 +5891,7 @@
         },
         {
             "ImageID": 14702,
-            "PngName": "Certainty_MangosBasket_1_v000.png",
+            "FileName": "Certainty_MangosBasket_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5904,7 +5904,7 @@
         },
         {
             "ImageID": 14748,
-            "PngName": "Significance_BackWall_v000.png",
+            "FileName": "Significance_BackWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5917,7 +5917,7 @@
         },
         {
             "ImageID": 14752,
-            "PngName": "Significance_FrontWall_v000.png",
+            "FileName": "Significance_FrontWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5930,7 +5930,7 @@
         },
         {
             "ImageID": 14753,
-            "PngName": "Significance_Instruments_v000.png",
+            "FileName": "Significance_Instruments_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5943,7 +5943,7 @@
         },
         {
             "ImageID": 14687,
-            "PngName": "Fruit_PinneaplePlant_2_v000.png",
+            "FileName": "Fruit_PinneaplePlant_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5956,7 +5956,7 @@
         },
         {
             "ImageID": 14688,
-            "PngName": "Fruit_PinneaplePlant_4_v000.png",
+            "FileName": "Fruit_PinneaplePlant_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5969,7 +5969,7 @@
         },
         {
             "ImageID": 15105,
-            "PngName": "Fruit_Watermelon_1_v000.png",
+            "FileName": "Fruit_Watermelon_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5982,7 +5982,7 @@
         },
         {
             "ImageID": 15149,
-            "PngName": "UnderwaterScene_v000.png",
+            "FileName": "UnderwaterScene_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -5995,7 +5995,7 @@
         },
         {
             "ImageID": 14703,
-            "PngName": "Certainty_TomatoesBasket_1_v000.png",
+            "FileName": "Certainty_TomatoesBasket_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6008,7 +6008,7 @@
         },
         {
             "ImageID": 14700,
-            "PngName": "Certainty_FWalls_v000.png",
+            "FileName": "Certainty_FWalls_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6021,7 +6021,7 @@
         },
         {
             "ImageID": 15078,
-            "PngName": "WoodStair_1_v003.png",
+            "FileName": "WoodStair_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6034,7 +6034,7 @@
         },
         {
             "ImageID": 14698,
-            "PngName": "Certainty_Shelf_3_v000.png",
+            "FileName": "Certainty_Shelf_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6047,7 +6047,7 @@
         },
         {
             "ImageID": 14791,
-            "PngName": "Totem_R_2_Blue_v001.png",
+            "FileName": "Totem_R_2_Blue_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6060,7 +6060,7 @@
         },
         {
             "ImageID": 14755,
-            "PngName": "StoneWall_A_2.2_v001.png",
+            "FileName": "StoneWall_A_2.2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6073,7 +6073,7 @@
         },
         {
             "ImageID": 14793,
-            "PngName": "Totem_R_2_Green_v001.png",
+            "FileName": "Totem_R_2_Green_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6086,7 +6086,7 @@
         },
         {
             "ImageID": 14787,
-            "PngName": "Totem_R_1_Yellow_v001.png",
+            "FileName": "Totem_R_1_Yellow_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6099,7 +6099,7 @@
         },
         {
             "ImageID": 14807,
-            "PngName": "Variety_Table_v000.png",
+            "FileName": "Variety_Table_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6112,7 +6112,7 @@
         },
         {
             "ImageID": 14803,
-            "PngName": "Variety_Paddles_v000.png",
+            "FileName": "Variety_Paddles_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6125,7 +6125,7 @@
         },
         {
             "ImageID": 14801,
-            "PngName": "Variety_FrontWall_v000.png",
+            "FileName": "Variety_FrontWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6138,7 +6138,7 @@
         },
         {
             "ImageID": 14792,
-            "PngName": "Totem_R_1_Blue_v001.png",
+            "FileName": "Totem_R_1_Blue_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6151,7 +6151,7 @@
         },
         {
             "ImageID": 14800,
-            "PngName": "Variety_BackWall_v000.png",
+            "FileName": "Variety_BackWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6164,7 +6164,7 @@
         },
         {
             "ImageID": 14758,
-            "PngName": "Pyramid_v000.png",
+            "FileName": "Pyramid_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6177,7 +6177,7 @@
         },
         {
             "ImageID": 14875,
-            "PngName": "Instrument_9_v000.png",
+            "FileName": "Instrument_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6190,7 +6190,7 @@
         },
         {
             "ImageID": 15114,
-            "PngName": "Pillar_Circle_5_v003.png",
+            "FileName": "Pillar_Circle_5_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6203,7 +6203,7 @@
         },
         {
             "ImageID": 15116,
-            "PngName": "Pillar_Circle_3_v003.png",
+            "FileName": "Pillar_Circle_3_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6216,7 +6216,7 @@
         },
         {
             "ImageID": 15123,
-            "PngName": "Pillar_Circle_2_v003.png",
+            "FileName": "Pillar_Circle_2_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6229,7 +6229,7 @@
         },
         {
             "ImageID": 15121,
-            "PngName": "Circle_v003.png",
+            "FileName": "Circle_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6242,7 +6242,7 @@
         },
         {
             "ImageID": 15133,
-            "PngName": "GreenBowl_000.png",
+            "FileName": "GreenBowl_000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6255,7 +6255,7 @@
         },
         {
             "ImageID": 15134,
-            "PngName": "SpoonPlate_1_v000.png",
+            "FileName": "SpoonPlate_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6268,7 +6268,7 @@
         },
         {
             "ImageID": 15086,
-            "PngName": "Bridge_Big_TR_v002.png",
+            "FileName": "Bridge_Big_TR_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6281,7 +6281,7 @@
         },
         {
             "ImageID": 15166,
-            "PngName": "Rock_Underwater_21_v000.png",
+            "FileName": "Rock_Underwater_21_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6294,7 +6294,7 @@
         },
         {
             "ImageID": 14871,
-            "PngName": "Instrument_1_v000.png",
+            "FileName": "Instrument_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6307,7 +6307,7 @@
         },
         {
             "ImageID": 15183,
-            "PngName": "Love\u0026C_Benches_L_v000.png",
+            "FileName": "Love\u0026C_Benches_L_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6320,7 +6320,7 @@
         },
         {
             "ImageID": 15189,
-            "PngName": "CampRug_1_v001.png",
+            "FileName": "CampRug_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6333,7 +6333,7 @@
         },
         {
             "ImageID": 15195,
-            "PngName": "RiverBank_02_TL_v001.png",
+            "FileName": "RiverBank_02_TL_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6346,7 +6346,7 @@
         },
         {
             "ImageID": 15194,
-            "PngName": "RiverBank_TR_v002.png",
+            "FileName": "RiverBank_TR_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6359,7 +6359,7 @@
         },
         {
             "ImageID": 15177,
-            "PngName": "BeachChair_2_v000.png",
+            "FileName": "BeachChair_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6372,7 +6372,7 @@
         },
         {
             "ImageID": 15122,
-            "PngName": "Pillar_Circle_1_v003.png",
+            "FileName": "Pillar_Circle_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6385,7 +6385,7 @@
         },
         {
             "ImageID": 14840,
-            "PngName": "Bank_Curved180_1_TL_v000.png",
+            "FileName": "Bank_Curved180_1_TL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6398,7 +6398,7 @@
         },
         {
             "ImageID": 14838,
-            "PngName": "Bank_Curved90_2_B_v000.png",
+            "FileName": "Bank_Curved90_2_B_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6411,7 +6411,7 @@
         },
         {
             "ImageID": 15196,
-            "PngName": "RiverBank_TL_v002.png",
+            "FileName": "RiverBank_TL_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6424,7 +6424,7 @@
         },
         {
             "ImageID": 15161,
-            "PngName": "RoundGate_Wall_B_1_v002.png",
+            "FileName": "RoundGate_Wall_B_1_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6437,7 +6437,7 @@
         },
         {
             "ImageID": 15087,
-            "PngName": "Bush_Red_Green_02_v001.png",
+            "FileName": "Bush_Red_Green_02_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6450,7 +6450,7 @@
         },
         {
             "ImageID": 15012,
-            "PngName": "SeaBank_TL_v000.png",
+            "FileName": "SeaBank_TL_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6463,7 +6463,7 @@
         },
         {
             "ImageID": 14994,
-            "PngName": "Stepping stone_1_A_v000.png",
+            "FileName": "Stepping stone_1_A_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6476,7 +6476,7 @@
         },
         {
             "ImageID": 15126,
-            "PngName": "Gem_Small_5_v000.png",
+            "FileName": "Gem_Small_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6489,7 +6489,7 @@
         },
         {
             "ImageID": 15140,
-            "PngName": "Stair_Down_S_2_v003.png",
+            "FileName": "Stair_Down_S_2_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6502,7 +6502,7 @@
         },
         {
             "ImageID": 15152,
-            "PngName": "BigHut_1_v001.png",
+            "FileName": "BigHut_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6515,7 +6515,7 @@
         },
         {
             "ImageID": 15178,
-            "PngName": "RoundGate_A_v002.png",
+            "FileName": "RoundGate_A_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6528,7 +6528,7 @@
         },
         {
             "ImageID": 14888,
-            "PngName": "PlantTree_Leaves_D_2_v001.png",
+            "FileName": "PlantTree_Leaves_D_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6541,7 +6541,7 @@
         },
         {
             "ImageID": 15179,
-            "PngName": "CampHut_2_v001.png",
+            "FileName": "CampHut_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6554,7 +6554,7 @@
         },
         {
             "ImageID": 14917,
-            "PngName": "Fruit_Watermelon_4_v000.png",
+            "FileName": "Fruit_Watermelon_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6567,7 +6567,7 @@
         },
         {
             "ImageID": 15144,
-            "PngName": "Gem_Big_5_v000.png",
+            "FileName": "Gem_Big_5_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6580,7 +6580,7 @@
         },
         {
             "ImageID": 15053,
-            "PngName": "StoneUnderwater_16_v000.png",
+            "FileName": "StoneUnderwater_16_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6593,7 +6593,7 @@
         },
         {
             "ImageID": 15142,
-            "PngName": "Stair_Down_B_2_v003.png",
+            "FileName": "Stair_Down_B_2_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6606,7 +6606,7 @@
         },
         {
             "ImageID": 15143,
-            "PngName": "Stair_Down_B_4_v003.png",
+            "FileName": "Stair_Down_B_4_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6619,7 +6619,7 @@
         },
         {
             "ImageID": 15162,
-            "PngName": "Bridge_Small_TR_v002.png",
+            "FileName": "Bridge_Small_TR_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6632,7 +6632,7 @@
         },
         {
             "ImageID": 15128,
-            "PngName": "Stair_Down_B_1_v003.png",
+            "FileName": "Stair_Down_B_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6645,7 +6645,7 @@
         },
         {
             "ImageID": 15198,
-            "PngName": "Boat_v000.png",
+            "FileName": "Boat_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6658,7 +6658,7 @@
         },
         {
             "ImageID": 15175,
-            "PngName": "FishingBasket_v000.png",
+            "FileName": "FishingBasket_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6671,7 +6671,7 @@
         },
         {
             "ImageID": 15156,
-            "PngName": "RoundGate_Wall_A_1_v002.png",
+            "FileName": "RoundGate_Wall_A_1_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6684,7 +6684,7 @@
         },
         {
             "ImageID": 15160,
-            "PngName": "BigHut_2_v001.png",
+            "FileName": "BigHut_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6697,7 +6697,7 @@
         },
         {
             "ImageID": 15157,
-            "PngName": "RoundGate_B_v002.png",
+            "FileName": "RoundGate_B_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6710,7 +6710,7 @@
         },
         {
             "ImageID": 15119,
-            "PngName": "RoundGate_Wall_A_2_v002.png",
+            "FileName": "RoundGate_Wall_A_2_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6723,7 +6723,7 @@
         },
         {
             "ImageID": 15102,
-            "PngName": "WoodPile_v001.png",
+            "FileName": "WoodPile_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6736,7 +6736,7 @@
         },
         {
             "ImageID": 15163,
-            "PngName": "OnariSymbol_v000.png",
+            "FileName": "OnariSymbol_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6749,7 +6749,7 @@
         },
         {
             "ImageID": 15124,
-            "PngName": "Stair_Down_B_3_v003.png",
+            "FileName": "Stair_Down_B_3_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6762,7 +6762,7 @@
         },
         {
             "ImageID": 15125,
-            "PngName": "Gem_Small_14_v000.png",
+            "FileName": "Gem_Small_14_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6775,7 +6775,7 @@
         },
         {
             "ImageID": 15107,
-            "PngName": "CampAxe_2_v000.png",
+            "FileName": "CampAxe_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6788,7 +6788,7 @@
         },
         {
             "ImageID": 15155,
-            "PngName": "PlateAsset_1_v000.png",
+            "FileName": "PlateAsset_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6801,7 +6801,7 @@
         },
         {
             "ImageID": 15191,
-            "PngName": "BambooCup_1_v000.png",
+            "FileName": "BambooCup_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6814,7 +6814,7 @@
         },
         {
             "ImageID": 15172,
-            "PngName": "Instrument_9_v000.png",
+            "FileName": "Instrument_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6827,7 +6827,7 @@
         },
         {
             "ImageID": 15173,
-            "PngName": "Instrument_11_v000.png",
+            "FileName": "Instrument_11_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6840,7 +6840,7 @@
         },
         {
             "ImageID": 15113,
-            "PngName": "StoneWall_B_3_v001.png",
+            "FileName": "StoneWall_B_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6853,7 +6853,7 @@
         },
         {
             "ImageID": 15182,
-            "PngName": "RoundGate_Wall_B_2_v002.png",
+            "FileName": "RoundGate_Wall_B_2_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6866,7 +6866,7 @@
         },
         {
             "ImageID": 15190,
-            "PngName": "CookingStop_v002.png",
+            "FileName": "CookingStop_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6879,7 +6879,7 @@
         },
         {
             "ImageID": 15164,
-            "PngName": "Rock_Underwater_20_v000.png",
+            "FileName": "Rock_Underwater_20_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6892,7 +6892,7 @@
         },
         {
             "ImageID": 15165,
-            "PngName": "Rock_Underwater_9_v000.png",
+            "FileName": "Rock_Underwater_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6905,7 +6905,7 @@
         },
         {
             "ImageID": 15127,
-            "PngName": "Gem_Small_2_v000.png",
+            "FileName": "Gem_Small_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6918,7 +6918,7 @@
         },
         {
             "ImageID": 15151,
-            "PngName": "BigHut_3_v001.png",
+            "FileName": "BigHut_3_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6931,7 +6931,7 @@
         },
         {
             "ImageID": 15185,
-            "PngName": "Growth_Chair_v000.png",
+            "FileName": "Growth_Chair_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6944,7 +6944,7 @@
         },
         {
             "ImageID": 14857,
-            "PngName": "Bridge_Big_TL_v002.png",
+            "FileName": "Bridge_Big_TL_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6957,7 +6957,7 @@
         },
         {
             "ImageID": 15188,
-            "PngName": "Rock_Underwater_1_v000.png",
+            "FileName": "Rock_Underwater_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6970,7 +6970,7 @@
         },
         {
             "ImageID": 15181,
-            "PngName": "Bridge_Small_TL_v002.png",
+            "FileName": "Bridge_Small_TL_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6983,7 +6983,7 @@
         },
         {
             "ImageID": 15174,
-            "PngName": "TotemArch_L_Blue_v001.png",
+            "FileName": "TotemArch_L_Blue_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -6996,7 +6996,7 @@
         },
         {
             "ImageID": 14886,
-            "PngName": "Turtle_3_v000.png",
+            "FileName": "Turtle_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7009,7 +7009,7 @@
         },
         {
             "ImageID": 15184,
-            "PngName": "Growth_Shelf_v000.png",
+            "FileName": "Growth_Shelf_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7022,7 +7022,7 @@
         },
         {
             "ImageID": 15187,
-            "PngName": "Rock_Underwater_8_v000.png",
+            "FileName": "Rock_Underwater_8_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7035,7 +7035,7 @@
         },
         {
             "ImageID": 15186,
-            "PngName": "Totem_L_2_Blue_v001.png",
+            "FileName": "Totem_L_2_Blue_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7048,7 +7048,7 @@
         },
         {
             "ImageID": 15197,
-            "PngName": "CampHut_1_v001.png",
+            "FileName": "CampHut_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7061,7 +7061,7 @@
         },
         {
             "ImageID": 15120,
-            "PngName": "Obelisk_1_v003.png",
+            "FileName": "Obelisk_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7074,7 +7074,7 @@
         },
         {
             "ImageID": 15098,
-            "PngName": "Axe_1_v001.png",
+            "FileName": "Axe_1_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7087,7 +7087,7 @@
         },
         {
             "ImageID": 15097,
-            "PngName": "ChoppedTrunk_v000.png",
+            "FileName": "ChoppedTrunk_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7100,7 +7100,7 @@
         },
         {
             "ImageID": 15083,
-            "PngName": "GreenRope_1_v002.png",
+            "FileName": "GreenRope_1_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7113,7 +7113,7 @@
         },
         {
             "ImageID": 15084,
-            "PngName": "BlueRope_1_v002.png",
+            "FileName": "BlueRope_1_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7126,7 +7126,7 @@
         },
         {
             "ImageID": 15076,
-            "PngName": "WoodWheel_1_v003.png",
+            "FileName": "WoodWheel_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7139,7 +7139,7 @@
         },
         {
             "ImageID": 15073,
-            "PngName": "Bank_Curved90_2_L_v000.png",
+            "FileName": "Bank_Curved90_2_L_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7152,7 +7152,7 @@
         },
         {
             "ImageID": 15074,
-            "PngName": "WoodRamp_1_v003.png",
+            "FileName": "WoodRamp_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7165,7 +7165,7 @@
         },
         {
             "ImageID": 15135,
-            "PngName": "Gem_Small_9_v000.png",
+            "FileName": "Gem_Small_9_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7178,7 +7178,7 @@
         },
         {
             "ImageID": 15136,
-            "PngName": "Stair_Down_S_1_v003.png",
+            "FileName": "Stair_Down_S_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7191,7 +7191,7 @@
         },
         {
             "ImageID": 15138,
-            "PngName": "Stair_Down_S_6_v003.png",
+            "FileName": "Stair_Down_S_6_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7204,7 +7204,7 @@
         },
         {
             "ImageID": 15072,
-            "PngName": "Bank_Straight_BR_v000.png",
+            "FileName": "Bank_Straight_BR_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7217,7 +7217,7 @@
         },
         {
             "ImageID": 15085,
-            "PngName": "BambooPile_1_v003.png",
+            "FileName": "BambooPile_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7230,7 +7230,7 @@
         },
         {
             "ImageID": 15079,
-            "PngName": "WoodGear_1_v003.png",
+            "FileName": "WoodGear_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7243,7 +7243,7 @@
         },
         {
             "ImageID": 15080,
-            "PngName": "WaterDam_3_v002.png",
+            "FileName": "WaterDam_3_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7256,7 +7256,7 @@
         },
         {
             "ImageID": 15077,
-            "PngName": "Building_2_v006.png",
+            "FileName": "Building_2_v006.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7269,7 +7269,7 @@
         },
         {
             "ImageID": 15075,
-            "PngName": "Building_1_v006.png",
+            "FileName": "Building_1_v006.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7282,7 +7282,7 @@
         },
         {
             "ImageID": 15081,
-            "PngName": "WaterDam_1_v002.png",
+            "FileName": "WaterDam_1_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7295,7 +7295,7 @@
         },
         {
             "ImageID": 15204,
-            "PngName": "Love\u0026C_Arches_v000.png",
+            "FileName": "Love\u0026C_Arches_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7308,7 +7308,7 @@
         },
         {
             "ImageID": 15071,
-            "PngName": "WaterDam_Stones_v001.png",
+            "FileName": "WaterDam_Stones_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7321,7 +7321,7 @@
         },
         {
             "ImageID": 15100,
-            "PngName": "Axe_2_v001.png",
+            "FileName": "Axe_2_v001.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7334,7 +7334,7 @@
         },
         {
             "ImageID": 15112,
-            "PngName": "CutBoamboo_1_v003.png",
+            "FileName": "CutBoamboo_1_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7347,7 +7347,7 @@
         },
         {
             "ImageID": 15096,
-            "PngName": "ChoppedPine_v000.png",
+            "FileName": "ChoppedPine_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7360,7 +7360,7 @@
         },
         {
             "ImageID": 15089,
-            "PngName": "Fruit_Tomato_4_v000.png",
+            "FileName": "Fruit_Tomato_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7373,7 +7373,7 @@
         },
         {
             "ImageID": 15082,
-            "PngName": "WaterDam_2_v002.png",
+            "FileName": "WaterDam_2_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7386,7 +7386,7 @@
         },
         {
             "ImageID": 15205,
-            "PngName": "Love\u0026C_Benches_R_v000.png",
+            "FileName": "Love\u0026C_Benches_R_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7399,7 +7399,7 @@
         },
         {
             "ImageID": 15118,
-            "PngName": "ButterFlyTree_1_v000.png",
+            "FileName": "ButterFlyTree_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7412,7 +7412,7 @@
         },
         {
             "ImageID": 15141,
-            "PngName": "Gem_Big_6_v000.png",
+            "FileName": "Gem_Big_6_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7425,7 +7425,7 @@
         },
         {
             "ImageID": 15202,
-            "PngName": "Growth_FrontWall_v000.png",
+            "FileName": "Growth_FrontWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7438,7 +7438,7 @@
         },
         {
             "ImageID": 15090,
-            "PngName": "Fruit_Tomato_2_v000.png",
+            "FileName": "Fruit_Tomato_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7451,7 +7451,7 @@
         },
         {
             "ImageID": 15109,
-            "PngName": "Certainty_TomatoesBasket_2_v000.png",
+            "FileName": "Certainty_TomatoesBasket_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7464,7 +7464,7 @@
         },
         {
             "ImageID": 15091,
-            "PngName": "Fruit_Tomato_3_v000.png",
+            "FileName": "Fruit_Tomato_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7477,7 +7477,7 @@
         },
         {
             "ImageID": 15146,
-            "PngName": "Gem_Big_3_v000.png",
+            "FileName": "Gem_Big_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7490,7 +7490,7 @@
         },
         {
             "ImageID": 15101,
-            "PngName": "BeehiveKiln_v003.png",
+            "FileName": "BeehiveKiln_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7503,7 +7503,7 @@
         },
         {
             "ImageID": 15110,
-            "PngName": "Certainty_MangosBasket_2_v000.png",
+            "FileName": "Certainty_MangosBasket_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7516,7 +7516,7 @@
         },
         {
             "ImageID": 15206,
-            "PngName": "Love\u0026C_FrontWall_v000.png",
+            "FileName": "Love\u0026C_FrontWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7529,7 +7529,7 @@
         },
         {
             "ImageID": 15199,
-            "PngName": "Growth_BackWall_v000.png",
+            "FileName": "Growth_BackWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7542,7 +7542,7 @@
         },
         {
             "ImageID": 15145,
-            "PngName": "ButterFlyTree_4_v000.png",
+            "FileName": "ButterFlyTree_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7555,7 +7555,7 @@
         },
         {
             "ImageID": 15200,
-            "PngName": "Growth_FloorChair_v000.png",
+            "FileName": "Growth_FloorChair_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7568,7 +7568,7 @@
         },
         {
             "ImageID": 15201,
-            "PngName": "Growth_Activity_v000.png",
+            "FileName": "Growth_Activity_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7581,7 +7581,7 @@
         },
         {
             "ImageID": 15106,
-            "PngName": "Fruit_Watermelon_3_v000.png",
+            "FileName": "Fruit_Watermelon_3_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7594,7 +7594,7 @@
         },
         {
             "ImageID": 15104,
-            "PngName": "Fruit_Watermelon_2_v000.png",
+            "FileName": "Fruit_Watermelon_2_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7607,7 +7607,7 @@
         },
         {
             "ImageID": 14696,
-            "PngName": "Certainty_BWalls_v000.png",
+            "FileName": "Certainty_BWalls_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7620,7 +7620,7 @@
         },
         {
             "ImageID": 15111,
-            "PngName": "Windmill_v002.png",
+            "FileName": "Windmill_v002.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7633,7 +7633,7 @@
         },
         {
             "ImageID": 15139,
-            "PngName": "Stair_Down_S_4_v003.png",
+            "FileName": "Stair_Down_S_4_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7646,7 +7646,7 @@
         },
         {
             "ImageID": 15137,
-            "PngName": "Stair_Down_S_5_v003.png",
+            "FileName": "Stair_Down_S_5_v003.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7659,7 +7659,7 @@
         },
         {
             "ImageID": 15203,
-            "PngName": "Love\u0026C_BackWall_v000.png",
+            "FileName": "Love\u0026C_BackWall_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7672,7 +7672,7 @@
         },
         {
             "ImageID": 15092,
-            "PngName": "Fruit_Tomato_1_v000.png",
+            "FileName": "Fruit_Tomato_1_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
@@ -7685,7 +7685,7 @@
         },
         {
             "ImageID": 14720,
-            "PngName": "Turtle_4_v000.png",
+            "FileName": "Turtle_4_v000.png",
             "Enabled": true,
             "SliceName": null,
             "SliceURL": null,
