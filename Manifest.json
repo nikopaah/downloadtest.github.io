@@ -5,8 +5,8 @@
             "URL" : "https://nikopaah.github.io/downloadtest.github.io/MapMetaData.json",
             "FileType" : 2,
             "DownloadPriority" : 1,
-            "Dependency" : "test08",
-            "LastModified": "29-05-2024 00:00:00"
+            "Dependency" : "test09",
+            "LastModified": "2024-05-29T12:34:56Z"
         },
         {
             "FileName" : "Nodes_01_01.json",
