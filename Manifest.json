@@ -6,7 +6,7 @@
             "FileType" : 2,
             "DownloadPriority" : 1,
             "Dependency" : "",
-            "LastModified": "2024-05-29 00:00:00"
+            "LastModified": "2024-05-29T00:00:00"
         },
         {
             "FileName" : "Nodes_01_01.json",
@@ -14,7 +14,7 @@
             "FileType" : 3,
             "DownloadPriority" : 2,
             "Dependency" : "",
-            "LastModified": "2024-05-29 00:00:00"
+            "LastModified": "2024-05-29T00:00:00"
         },
         {
             "FileName" : "ImageLibrary.json",
@@ -22,7 +22,7 @@
             "FileType" : 5,
             "DownloadPriority" : 4,
             "Dependency" : "",
-            "LastModified": "2024-05-29 00:00:00"
+            "LastModified": "2024-05-29T00:00:00"
         },
         {
             "FileName" : "BundleLibrary.json",
@@ -30,7 +30,7 @@
             "FileType" : 9,
             "DownloadPriority" : 4,
             "Dependency" : "",
-            "LastModified": "2024-05-29 00:00:00"
+            "LastModified": "2024-05-29T00:00:00"
         }
     ]
 }
