@@ -6,7 +6,7 @@
             "URL": "https://nikopaah.github.io/downloadtest.github.io/terrain.bndl",
             "Crc": 0,
             "Version": 0,
-            "LastModifiedString": "2024-05-29 01:00:00"
+            "LastModified": "2024-05-29 01:00:00"
         },
         {
             "BundleID": 1,
@@ -14,7 +14,7 @@
             "URL": "https://nikopaah.github.io/downloadtest.github.io/stones.bndl",
             "Crc": 1,
             "Version": 1,
-            "LastModifiedString": "2024-05-29 01:00:00"
+            "LastModified": "2024-05-29 01:00:00"
         },
         {
             "BundleID": 2,
@@ -22,7 +22,7 @@
             "URL": "https://nikopaah.github.io/downloadtest.github.io/plants.bndl",
             "Crc": 2,
             "Version": 2,
-            "LastModifiedString": "2024-05-29 01:00:00"
+            "LastModified": "2024-05-29 01:00:00"
         },
         {
             "BundleID": 3,
@@ -30,7 +30,7 @@
             "URL": "https://nikopaah.github.io/downloadtest.github.io/items.bndl",
             "Crc": 3,
             "Version": 3,
-            "LastModifiedString": "2024-05-29 01:00:00"
+            "LastModified": "2024-05-29 01:00:00"
         },
         {
             "BundleID": 4,
@@ -38,7 +38,7 @@
             "URL": "https://nikopaah.github.io/downloadtest.github.io/furniture.bndl",
             "Crc": 4,
             "Version": 4,
-            "LastModifiedString": "2024-05-29 01:00:00"
+            "LastModified": "2024-05-29 01:00:00"
         }
         ,
         {
@@ -47,7 +47,7 @@
             "URL": "https://nikopaah.github.io/downloadtest.github.io/buildings.bndl",
             "Crc": 5,
             "Version": 5,
-            "LastModifiedString": "2024-05-29 01:00:00"
+            "LastModified": "2024-05-29 01:00:00"
         }
     ]
 }
