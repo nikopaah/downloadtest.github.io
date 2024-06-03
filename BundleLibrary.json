@@ -1,52 +1,52 @@
 {
     "BundleLibrary": [
         {
-            "BundleID": 0,
+            "BundleID": 2045,
             "FileName": "terrain.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/terrain.bndl",
-            "Crc": 0,
+            "Crc": 3792984661,
             "Version": 0,
             "LastModified": "2024-05-29 01:00:00"
         },
         {
-            "BundleID": 1,
+            "BundleID": 2044,
             "FileName": "stones.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/stones.bndl",
-            "Crc": 1,
-            "Version": 1,
+            "Crc": 3940621346,
+            "Version": 0,
             "LastModified": "2024-05-29 01:00:00"
         },
         {
-            "BundleID": 2,
+            "BundleID": 2043,
             "FileName": "plants.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/plants.bndl",
-            "Crc": 2,
-            "Version": 2,
+            "Crc": 3459070650,
+            "Version": 0,
             "LastModified": "2024-05-29 01:00:00"
         },
         {
-            "BundleID": 3,
+            "BundleID": 2042,
             "FileName": "items.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/items.bndl",
-            "Crc": 3,
-            "Version": 3,
+            "Crc": 3922008662,
+            "Version": 0,
             "LastModified": "2024-05-29 01:00:00"
         },
         {
-            "BundleID": 4,
+            "BundleID": 2041,
             "FileName": "furniture.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/furniture.bndl",
-            "Crc": 4,
-            "Version": 4,
+            "Crc": 992170455,
+            "Version": 0,
             "LastModified": "2024-05-29 01:00:00"
         }
         ,
         {
-            "BundleID": 5,
+            "BundleID": 2040,
             "FileName": "buildings.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/buildings.bndl",
-            "Crc": 5,
-            "Version": 5,
+            "Crc": 1441788929,
+            "Version": 0,
             "LastModified": "2024-05-29 01:00:00"
         }
     ]
