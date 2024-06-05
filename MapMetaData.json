@@ -5,8 +5,8 @@
         "CameraStartPosX": -41251,
         "CameraStartPosY": 7727,
         "CameraStartZoom": 0,
-        "GridCellWidth" : 30,
-        "GridCellHeight": 50,
+        "GridCellWidth" : 100,
+        "GridCellHeight": 120,
         "StartQuadrant" : "01_02", 
         "ModifiedDate": "2023-12-01",
         "WorldMapVersion": 0
