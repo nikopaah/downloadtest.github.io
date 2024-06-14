@@ -2,8 +2,8 @@
     "WorldMapMetaData" : {
         "WorldWidth": 1080,
         "WorldHeight": 1920,
-        "CameraStartPosX": 42707.63,
-        "CameraStartPosY": 52596.92,
+        "CameraStartPosX": -39555.46,
+        "CameraStartPosY": 6047.066,
         "CameraStartZoom": 0,
         "GridCellWidth" : 1080,
         "GridCellHeight": 1920,
