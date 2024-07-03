@@ -8,7 +8,7 @@
         "GridCellWidth" : 1080,
         "GridCellHeight": 1920,
         "StartQuadrant" : "01_02", 
-        "ModifiedDate": "2023-12-01",
-        "WorldMapVersion": 0
+        "ModifiedDate": "2024-07-03",
+        "WorldMapVersion": 9
     }
 }
