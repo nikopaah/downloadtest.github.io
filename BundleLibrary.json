@@ -1,59 +1,53 @@
 {
     "BundleLibrary": [
         {
-            "BundleID": 2067,
+            "BundleID": 2045,
             "FileName": "terrain.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/terrain.bndl",
-            "DownloadPriority" : 3,
-            "Crc": 2295758312,
+            "Crc": 3792984661,
             "Version": 0,
-            "LastModified": "2024-06-06 01:00:00"
+            "LastModified": "2024-06-02 01:00:00"
         },
         {
-            "BundleID": 2066,
+            "BundleID": 2044,
             "FileName": "stones.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/stones.bndl",
-            "DownloadPriority" : 2,
-            "Crc": 3339036775,
+            "Crc": 3940621346,
             "Version": 0,
-            "LastModified": "2024-06-06 01:00:00"
+            "LastModified": "2024-06-02 01:00:00"
         },
         {
-            "BundleID": 2065,
+            "BundleID": 2043,
             "FileName": "plants.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/plants.bndl",
-            "DownloadPriority" : 0,
-            "Crc": 51034795,
+            "Crc": 3459070650,
             "Version": 0,
-            "LastModified": "2024-06-06 01:00:00"
+            "LastModified": "2024-06-02 01:00:00"
         },
         {
-            "BundleID": 2064,
+            "BundleID": 2042,
             "FileName": "items.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/items.bndl",
-            "DownloadPriority" : 5,
-            "Crc": 1669965543,
+            "Crc": 3922008662,
             "Version": 0,
-            "LastModified": "2024-06-06 01:00:00"
+            "LastModified": "2024-06-02 01:00:00"
         },
         {
-            "BundleID": 2063,
+            "BundleID": 2041,
             "FileName": "furniture.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/furniture.bndl",
-            "DownloadPriority" : 1,
-            "Crc": 2938913922,
+            "Crc": 992170455,
             "Version": 0,
-            "LastModified": "2024-06-06 01:00:00"
+            "LastModified": "2024-06-02 01:00:00"
         }
         ,
         {
             "BundleID": 2040,
             "FileName": "buildings.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/buildings.bndl",
-            "DownloadPriority" : 4,
             "Crc": 1441788929,
             "Version": 0,
-            "LastModified": "2024-06-06 01:00:00"
+            "LastModified": "2024-06-02 01:00:00"
         }
     ]
 }
