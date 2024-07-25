@@ -9,58 +9,10 @@
             "LastModified": "2024-06-20 01:00:00"
         },
         {
-            "FileName" : "old-Nodes_01_01.json",
+            "FileName" : "Nodes_01_01-test.json",
             "URL" : "https://nikopaah.github.io/downloadtest.github.io/old-Nodes_01_01.json",
             "FileType" : 3,
             "DownloadPriority" : 2,
-            "Dependency" : "",
-            "LastModified": "2024-07-02 01:00:00"
-        },
-        {
-            "FileName" : "old-Nodes_01_02.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/old-Nodes_01_02.json",
-            "FileType" : 4,
-            "DownloadPriority" : 6,
-            "Dependency" : "",
-            "LastModified": "2024-07-02 01:00:00"
-        },
-        {
-            "FileName" : "old-Nodes_01_03.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/old-Nodes_01_03.json",
-            "FileType" : 4,
-            "DownloadPriority" : 6,
-            "Dependency" : "",
-            "LastModified": "2024-07-02 01:00:00"
-        },
-        {
-            "FileName" : "old-Nodes_01_04.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/old-Nodes_01_04.json",
-            "FileType" : 4,
-            "DownloadPriority" : 6,
-            "Dependency" : "",
-            "LastModified": "2024-07-02 01:00:00"
-        },
-        {
-            "FileName" : "old-Nodes_02_01.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/old-Nodes_02_01.json",
-            "FileType" : 4,
-            "DownloadPriority" : 6,
-            "Dependency" : "",
-            "LastModified": "2024-07-02 01:00:00"
-        },
-        {
-            "FileName" : "old-Nodes_02_02.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/old-Nodes_02_02.json",
-            "FileType" : 4,
-            "DownloadPriority" : 6,
-            "Dependency" : "",
-            "LastModified": "2024-07-02 01:00:00"
-        },
-        {
-            "FileName" : "old-Nodes_02_03.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/old-Nodes_02_03.json",
-            "FileType" : 4,
-            "DownloadPriority" : 6,
             "Dependency" : "",
             "LastModified": "2024-07-02 01:00:00"
         },
