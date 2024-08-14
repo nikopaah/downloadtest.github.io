@@ -1,0 +1,59 @@
+{
+    "BundleLibrary": [
+        {
+            "BundleID": 2080,
+            "FileName": "terrain.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/terrain.bndl",
+            "DownloadPriority" : 3,
+            "Crc": 2295758312,
+            "Version": 0,
+            "LastModified": "2024-06-06 01:00:00"
+        },
+        {
+            "BundleID": 2079,
+            "FileName": "stones.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/stones.bndl",
+            "DownloadPriority" : 2,
+            "Crc": 3339036775,
+            "Version": 0,
+            "LastModified": "2024-06-06 01:00:00"
+        },
+        {
+            "BundleID": 2078,
+            "FileName": "plants.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/plants.bndl",
+            "DownloadPriority" : 0,
+            "Crc": 51034795,
+            "Version": 0,
+            "LastModified": "2024-06-06 01:00:00"
+        },
+        {
+            "BundleID": 2077,
+            "FileName": "items.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/items.bndl",
+            "DownloadPriority" : 5,
+            "Crc": 1669965543,
+            "Version": 0,
+            "LastModified": "2024-06-06 01:00:00"
+        },
+        {
+            "BundleID": 2076,
+            "FileName": "furniture.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/furniture.bndl",
+            "DownloadPriority" : 1,
+            "Crc": 2938913922,
+            "Version": 0,
+            "LastModified": "2024-06-06 01:00:00"
+        }
+        ,
+        {
+            "BundleID": 2075,
+            "FileName": "buildings.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/buildings.bndl",
+            "DownloadPriority" : 4,
+            "Crc": 352419593,
+            "Version": 0,
+            "LastModified": "2024-06-06 01:00:00"
+        }
+    ]
+}
