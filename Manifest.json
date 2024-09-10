@@ -10,7 +10,7 @@
         },
         {
             "FileName" : "Nodes_01.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/Nodes_01_01.json",
+            "URL" : "https://nikopaah.github.io/downloadtest.github.io/Nodes_01",
             "FileType" : 3,
             "DownloadPriority" : 2,
             "Dependency" : "",
@@ -18,17 +18,17 @@
         },
         {
             "FileName" : "Nodes_02.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/Nodes_01_02.json",
+            "URL" : "https://nikopaah.github.io/downloadtest.github.io/Nodes_02.json",
             "FileType" : 4,
-            "DownloadPriority" : 6,
+            "DownloadPriority" : 3,
             "Dependency" : "",
             "LastModified": "2024-07-01 01:00:00"
         },
         {
             "FileName" : "Nodes_03.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/Nodes_01_03.json",
+            "URL" : "https://nikopaah.github.io/downloadtest.github.io/Nodes_03.json",
             "FileType" : 4,
-            "DownloadPriority" : 6,
+            "DownloadPriority" : 3,
             "Dependency" : "",
             "LastModified": "2024-07-01 01:00:00"
         },
@@ -36,7 +36,7 @@
             "FileName" : "ImageLibrary.json",
             "URL" : "https://nikopaah.github.io/downloadtest.github.io/ImageLibrary.json",
             "FileType" : 5,
-            "DownloadPriority" : 4,
+            "DownloadPriority" : 2,
             "Dependency" : "",
             "LastModified": "2024-06-20 01:00:00"
         },
@@ -44,7 +44,7 @@
             "FileName" : "BundleLibrary.json",
             "URL" : "https://nikopaah.github.io/downloadtest.github.io/BundleLibrary.json",
             "FileType" : 9,
-            "DownloadPriority" : 4,
+            "DownloadPriority" : 1,
             "Dependency" : "",
             "LastModified": "2024-06-20 01:00:00"
         }
