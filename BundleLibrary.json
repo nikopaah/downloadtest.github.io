@@ -1,7 +1,7 @@
 {
     "BundleLibrary": [
         {
-            "BundleID": 0,
+            "BundleID": 1,
             "FileName": "test.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/test.bndl",
             "DownloadPriority" : 3,
