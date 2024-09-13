@@ -19,7 +19,7 @@
             "LastModified": "2024-06-06 01:00:00"
         },
         {
-            "BundleID": 2,
+            "BundleID": 3,
             "FileName": "terrains.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/terrains.bndl",
             "DownloadPriority" : 3,
@@ -28,7 +28,7 @@
             "LastModified": "2024-06-06 01:00:00"
         },
         {
-            "BundleID": 3,
+            "BundleID": 4,
             "FileName": "stones.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/stones.bndl",
             "DownloadPriority" : 3,
@@ -37,7 +37,7 @@
             "LastModified": "2024-06-06 01:00:00"
         },
         {
-            "BundleID": 4,
+            "BundleID": 5,
             "FileName": "furniture.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/furniture.bndl",
             "DownloadPriority" : 3,
@@ -46,7 +46,7 @@
             "LastModified": "2024-06-06 01:00:00"
         },
         {
-            "BundleID": 5,
+            "BundleID": 6,
             "FileName": "items.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/items.bndl",
             "DownloadPriority" : 3,
@@ -55,7 +55,7 @@
             "LastModified": "2024-06-06 01:00:00"
         },
         {
-            "BundleID": 6,
+            "BundleID": 7,
             "FileName": "buildings.bndl",
             "URL": "https://nikopaah.github.io/downloadtest.github.io/buildings.bndl",
             "DownloadPriority" : 3,
