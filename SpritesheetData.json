@@ -1,0 +1,38 @@
+{
+    "SpritesheetData" : [
+        {
+            "ImageId": 1,
+            "RenderQueue": 10,
+            "MaxSpritePerLine": 2,
+            "XCutOff": 0.5,
+            "YCutOff": 1,
+            "ScaleOffset" : 0.02,
+            "MoveXOffset": 0.004,
+            "MoveYOffset" : 0.006
+        },
+        {
+            "ImageId": 2,
+            "RenderQueue": 20,
+            "MaxSpritePerLine": 3,
+            "XCutOff": 0.3333,
+            "YCutOff": 1
+        },
+        {
+            "ImageId": 3,
+            "RenderQueue": 30,
+            "MaxSpritePerLine": 2,
+            "XCutOff": 0.5,
+            "YCutOff": 1,
+            "ScaleOffset" : 0.02,
+            "MoveXOffset": 0.004,
+            "MoveYOffset" : 0.006
+        },
+        {
+            "ImageId": 4,
+            "RenderQueue": 40,
+            "MaxSpritePerLine": 5,
+            "XCutOff": 0.2,
+            "YCutOff": 0.5
+        }
+    ]
+}

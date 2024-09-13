@@ -1,0 +1,13 @@
+{
+    "BundleLibrary": [
+        {
+            "BundleID": 1,
+            "FileName": "test.bndl",
+            "URL": "https://nikopaah.github.io/downloadtest.github.io/test.bndl",
+            "DownloadPriority" : 3,
+            "Crc": 2295758312,
+            "Version": 0,
+            "LastModified": "2024-06-06 01:00:00"
+        }
+    ]
+}

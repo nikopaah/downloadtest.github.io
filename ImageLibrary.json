@@ -1,6 +1,43 @@
 {
   "ImageLibrary": [
     {
+      "ImageID": 1,
+      "FileName": "BaseSand-Spritesheet.png",
+      "Enabled": true,
+      "Width": 2048,
+      "Height": 1024,
+      "BundleId": 2,
+      "LastModified": "2024-08-27T13:10:30"
+    },
+    {
+      "ImageID": 2,
+      "FileName": "SeaWater-Spritesheet.png",
+      "Enabled": true,
+      "Width": 12288,
+      "Height": 4096,
+      "BundleId": 2,
+      "LastModified": "2024-08-27T13:10:30"
+    },
+    {
+      "ImageID": 3,
+      "FileName": "DarkSand-Spritesheet.png",
+      "Enabled": true,
+      "Width": 3568,
+      "Height": 1784,
+      "BundleId": 2,
+      "LastModified": "2024-08-27T13:10:30"
+    },
+    {
+      "ImageID": 4,
+      "FileName": "Grass-Spritesheet.png",
+      "Enabled": true,
+      "Width": 2615,
+      "Height": 1046,
+      "BundleId": 2,
+      "LastModified": "2024-08-27T13:10:30"
+    },
+
+    {
       "ImageID": 36066,
       "FileName": "Flower_Rose_White_v000.png",
       "Enabled": true,
