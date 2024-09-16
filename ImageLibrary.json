@@ -7,6 +7,7 @@
       "Width": 2048,
       "Height": 1024,
       "BundleId": 2,
+      "GPURender": true,
       "LastModified": "2024-08-27T13:10:30"
     },
     {
@@ -16,6 +17,7 @@
       "Width": 12288,
       "Height": 4096,
       "BundleId": 2,
+      "GPURender": true,
       "LastModified": "2024-08-27T13:10:30"
     },
     {
@@ -25,6 +27,7 @@
       "Width": 3568,
       "Height": 1784,
       "BundleId": 2,
+      "GPURender": true,
       "LastModified": "2024-08-27T13:10:30"
     },
     {
@@ -34,6 +37,7 @@
       "Width": 2615,
       "Height": 1046,
       "BundleId": 2,
+      "GPURender": true,
       "LastModified": "2024-08-27T13:10:30"
     },
 
