@@ -1,5 +1,5 @@
 {
-    "WorldMapMetaData" : {
+    "WorldMapMetaDataDTO" : {
         "WorldWidth": 93,
         "WorldHeight": 48,
         "CameraStartPosX": 44965.54,

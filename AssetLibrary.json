@@ -1,0 +1,48 @@
+{
+    "AssetLibrary": [
+        {
+            "AssetId": 0,
+            "States": [
+                {
+                    "StateId": 0,
+                    "ImageId": 36066,
+                    "DragEnabled": false,
+                    "DoubleTapEnabled": false,
+                    "SelectEnabled": false,
+                    "DropOnEnabled": false,
+                    "DropOnGroupID": 0,
+                    "StateAfterDrop": 0,
+                    "TargetStateAfterDrop": 0,
+                    "NextTapState": 0,
+                    "IsInventory": false,
+                    "CanSpawn": false,
+                    "SpawnTemplateNodeID": 0,
+                    "SpawnOffsetX": 0,
+                    "SpawnOffsetY": 0,
+                    "HasLoop": false,
+                    "AudioClipID": 0
+                },
+                {
+                    "StateId": 0,
+                    "ImageId": 36067,
+                    "DragEnabled": false,
+                    "DoubleTapEnabled": false,
+                    "SelectEnabled": false,
+                    "DropOnEnabled": false,
+                    "DropOnGroupID": 0,
+                    "StateAfterDrop": 0,
+                    "TargetStateAfterDrop": 0,
+                    "NextTapState": 0,
+                    "IsInventory": false,
+                    "CanSpawn": false,
+                    "SpawnTemplateNodeID": 0,
+                    "SpawnOffsetX": 0,
+                    "SpawnOffsetY": 0,
+                    "HasLoop": false,
+                    "AudioClipID": 0
+                }
+            ]
+            
+        }
+    ]
+}

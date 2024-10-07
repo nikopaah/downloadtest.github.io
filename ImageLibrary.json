@@ -1,5 +1,5 @@
 {
-  "ImageLibrary": [
+  "ImageLibraryDTO": [
     {
       "ImageID": 1,
       "FileName": "BaseSand-Spritesheet.png",

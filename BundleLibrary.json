@@ -1,5 +1,5 @@
 {
-    "BundleLibrary": [
+    "BundleLibraryDTO": [
         {
             "BundleID": 2,
             "FileName": "spritesheets.bndl",

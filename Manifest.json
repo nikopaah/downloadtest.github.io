@@ -1,5 +1,5 @@
 {
-    "Manifest": [
+    "ManifestDTO": [
         {
             "FileName" : "MapMetaData.json",
             "URL" : "https://nikopaah.github.io/downloadtest.github.io/MapMetaData.json",
