@@ -1,7 +1,7 @@
 {
     "ManifestDTO": {
         "BinaryVersion": "1.0.0",
-        "ResourceDTO": [
+        "Resources": [
             {
                 "FileName" : "WorldMetaData.json",
                 "URL" : "https://nikopaah.github.io/downloadtest.github.io/WorldMetaData.json",
