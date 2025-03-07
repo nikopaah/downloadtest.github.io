@@ -1,12 +1,13 @@
 {
-    "ManifestDTO": [
+    "BinaryVersion": "1.0.0",
+    "ResourceDTO": [
         {
-            "FileName" : "MapMetaData.json",
-            "URL" : "https://nikopaah.github.io/downloadtest.github.io/MapMetaData.json",
+            "FileName" : "WorldMetaData.json",
+            "URL" : "https://nikopaah.github.io/downloadtest.github.io/WorldMetaData.json",
             "FileType" : 2,
             "DownloadPriority" : 1,
             "Dependency" : "",
-            "LastModified": "2024-06-20 01:00:00"
+            "LastModified": "2024-07-01 01:00:00"
         },
         {
             "FileName" : "Nodes_01.json",
