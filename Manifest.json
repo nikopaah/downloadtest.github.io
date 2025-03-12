@@ -37,7 +37,7 @@
             {
                 "FileName" : "SpritesheetData.json",
                 "URL" : "https://nikopaah.github.io/downloadtest.github.io/SpritesheetData.json",
-                "FileType" : 6,
+                "FileType" : 7,
                 "DownloadPriority" : 2,
                 "Dependency" : "",
                 "LastModified": "2024-06-20 01:00:00"
@@ -51,9 +51,25 @@
                 "LastModified": "2024-06-20 01:00:00"
             },
             {
+                "FileName" : "StateData.json",
+                "URL" : "https://nikopaah.github.io/downloadtest.github.io/StateData.json",
+                "FileType" : 5,
+                "DownloadPriority" : 2,
+                "Dependency" : "",
+                "LastModified": "2024-06-20 01:00:00"
+            },
+            {
+                "FileName" : "StateMachineData.json",
+                "URL" : "https://nikopaah.github.io/downloadtest.github.io/StateMachineData.json",
+                "FileType" : 6,
+                "DownloadPriority" : 2,
+                "Dependency" : "",
+                "LastModified": "2024-06-20 01:00:00"
+            },
+            {
                 "FileName" : "BundleLibrary.json",
                 "URL" : "https://nikopaah.github.io/downloadtest.github.io/BundleLibrary.json",
-                "FileType" : 10,
+                "FileType" : 11,
                 "DownloadPriority" : 1,
                 "Dependency" : "",
                 "LastModified": "2024-06-20 01:00:00"
