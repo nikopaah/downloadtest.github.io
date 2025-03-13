@@ -77,7 +77,7 @@
             {
                 "FileName" : "PlayerState.json",
                 "URL" : "https://nikopaah.github.io/downloadtest.github.io/PlayerState.json",
-                "FileType" : 12,
+                "FileType" : 13,
                 "DownloadPriority" : 3,
                 "Dependency" : "",
                 "LastModified": "2024-06-20 01:00:00"
